@@ -16,7 +16,7 @@ export default function ExamScreen({ config, finishExam, setScreen, progress, to
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [shake, setShake] = useState(false)
   const timerRef = useRef(null)
-  const { explain, explanations, loading: explainLoading, errors: explainErrors } = useExplainer()
+  const { getExplanation } = useExplainer()
 
   const q = questions[idx]
   const isAnswered = answers[q?.id] !== undefined
@@ -235,13 +235,7 @@ export default function ExamScreen({ config, finishExam, setScreen, progress, to
 
             {/* Explanation — shown after answering or revealing */}
             {(isAnswered || isRevealed) && (
-              <ExplainBox
-                question={q}
-                explain={explain}
-                explanations={explanations}
-                loading={explainLoading}
-                errors={explainErrors}
-              />
+              <ExplainBox questionId={q?.id} getExplanation={getExplanation} />
             )}
           </div>
 

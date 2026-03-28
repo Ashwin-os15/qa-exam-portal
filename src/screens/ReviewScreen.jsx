@@ -8,7 +8,7 @@ const ALPHA = ['a','b','c','d']
 export default function ReviewScreen({ result, setScreen, startExam, toggleBookmark, progress }) {
   const [filter, setFilter] = useState('all') // all | wrong | correct | skipped
   const [expandedId, setExpandedId] = useState(null)
-  const { explain, explanations, loading: explainLoading, errors: explainErrors } = useExplainer()
+  const { getExplanation } = useExplainer()
 
   const { answers, questions, mode } = result
 
@@ -172,13 +172,7 @@ export default function ReviewScreen({ result, setScreen, startExam, toggleBookm
                       </div>
                     )}
 
-                    <ExplainBox
-                      question={q}
-                      explain={explain}
-                      explanations={explanations}
-                      loading={explainLoading}
-                      errors={explainErrors}
-                    />
+                    <ExplainBox questionId={q.id} getExplanation={getExplanation} />
                   </div>
                 )}
               </div>
