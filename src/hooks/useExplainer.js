@@ -4,14 +4,14 @@ import { useState, useCallback } from 'react'
 const explanationCache = {}
 
 export function useExplainer() {
-  const [loading, setLoading] = useState({})   // { [qId]: true/false }
+  const [loading, setLoading] = useState({})
   const [explanations, setExplanations] = useState({})
   const [errors, setErrors] = useState({})
 
   const explain = useCallback(async (question) => {
     const id = question.id
 
-    // Already have it
+    // Already cached
     if (explanationCache[id]) {
       setExplanations(prev => ({ ...prev, [id]: explanationCache[id] }))
       return
@@ -28,20 +28,25 @@ export function useExplainer() {
       .map(([k, v]) => `${k.toUpperCase()}) ${v}`)
       .join('\n')
 
-    const prompt = `You are a concise math tutor. Explain how to solve this MCQ in 3–5 short lines. Be direct, use simple language, and show the key calculation step.
+    const prompt = `You are a concise math tutor. Explain how to solve this MCQ in 3-5 short lines. Be direct, use simple language, and show the key calculation step.
 
 Question: ${question.question}
-${opts ? `Options:\n${opts}\n` : ''}Correct Answer: ${question.answer.toUpperCase()}${opts ? ` — ${question.options[question.answer] || ''}` : ''}
+${opts ? `Options:\n${opts}\n` : ''}Correct Answer: ${question.answer.toUpperCase()}${opts ? ` - ${question.options[question.answer] || ''}` : ''}
 
 Give only the explanation. No preamble, no "The answer is..." at the end.`
 
     try {
       const res = await fetch('https://api.anthropic.com/v1/messages', {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': import.meta.env.VITE_ANTHROPIC_API_KEY,
+          'anthropic-version': '2023-06-01',
+          'anthropic-dangerous-direct-browser-access': 'true',
+        },
         body: JSON.stringify({
-          model: 'claude-sonnet-4-20250514',
-          max_tokens: 1000,
+          model: 'claude-haiku-4-5-20251001',
+          max_tokens: 300,
           messages: [{ role: 'user', content: prompt }]
         })
       })
