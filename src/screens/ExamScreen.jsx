@@ -1,5 +1,7 @@
 import React, { useState, useEffect, useRef, useCallback } from 'react'
 import './ExamScreen.css'
+import { useExplainer } from '../hooks/useExplainer.js'
+import ExplainBox from '../components/ExplainBox.jsx'
 
 const ALPHA = ['a', 'b', 'c', 'd']
 const KEY_MAP = { '1': 'a', '2': 'b', '3': 'c', '4': 'd', 'a': 'a', 'b': 'b', 'c': 'c', 'd': 'd' }
@@ -14,6 +16,7 @@ export default function ExamScreen({ config, finishExam, setScreen, progress, to
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [shake, setShake] = useState(false)
   const timerRef = useRef(null)
+  const { explain, explanations, loading: explainLoading, errors: explainErrors } = useExplainer()
 
   const q = questions[idx]
   const isAnswered = answers[q?.id] !== undefined
@@ -228,6 +231,17 @@ export default function ExamScreen({ config, finishExam, setScreen, progress, to
                   : `Answer: ${q.answer.toUpperCase()}`
                 }
               </div>
+            )}
+
+            {/* Explanation — shown after answering or revealing */}
+            {(isAnswered || isRevealed) && (
+              <ExplainBox
+                question={q}
+                explain={explain}
+                explanations={explanations}
+                loading={explainLoading}
+                errors={explainErrors}
+              />
             )}
           </div>
 
