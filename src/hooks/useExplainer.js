@@ -11,50 +11,30 @@ export function useExplainer() {
   const explain = useCallback(async (question) => {
     const id = question.id
 
-    // Already cached
+    // Return cached result instantly
     if (explanationCache[id]) {
       setExplanations(prev => ({ ...prev, [id]: explanationCache[id] }))
       return
     }
 
-    // Already loading
     if (loading[id]) return
 
     setLoading(prev => ({ ...prev, [id]: true }))
     setErrors(prev => ({ ...prev, [id]: null }))
 
-    const opts = Object.entries(question.options || {})
-      .filter(([, v]) => v?.trim())
-      .map(([k, v]) => `${k.toUpperCase()}) ${v}`)
-      .join('\n')
-
-    const prompt = `You are a concise math tutor. Explain how to solve this MCQ in 3-5 short lines. Be direct, use simple language, and show the key calculation step.
-
-Question: ${question.question}
-${opts ? `Options:\n${opts}\n` : ''}Correct Answer: ${question.answer.toUpperCase()}${opts ? ` - ${question.options[question.answer] || ''}` : ''}
-
-Give only the explanation. No preamble, no "The answer is..." at the end.`
-
     try {
-      const res = await fetch('https://api.anthropic.com/v1/messages', {
+      // Call our own Vercel serverless function — no CORS issues, key stays secret
+      const res = await fetch('/api/explain', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'x-api-key': import.meta.env.VITE_ANTHROPIC_API_KEY,
-          'anthropic-version': '2023-06-01',
-          'anthropic-dangerous-direct-browser-access': 'true',
-        },
-        body: JSON.stringify({
-          model: 'claude-haiku-4-5-20251001',
-          max_tokens: 300,
-          messages: [{ role: 'user', content: prompt }]
-        })
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question })
       })
 
-      if (!res.ok) throw new Error(`API error ${res.status}`)
+      if (!res.ok) throw new Error(`Server error ${res.status}`)
       const data = await res.json()
-      const text = data.content?.[0]?.text?.trim() || 'No explanation available.'
+      if (data.error) throw new Error(data.error)
 
+      const text = data.text || 'No explanation available.'
       explanationCache[id] = text
       setExplanations(prev => ({ ...prev, [id]: text }))
     } catch (err) {
