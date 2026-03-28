@@ -1,0 +1,5326 @@
+[
+  {
+    "id": 1,
+    "question": "If one-third of one-fourth of a number is 15, then three-tenth of that number is:",
+    "options": {
+      "a": "35",
+      "b": "36",
+      "c": "45",
+      "d": "54"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 2,
+    "question": "Three times the first of three consecutive odd integers is 3 more than twice the third. The third integer is:",
+    "options": {
+      "a": "9",
+      "b": "11",
+      "c": "13",
+      "d": "15"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 3,
+    "question": "The difference between a two-digit number and the number obtained by interchanging the positions of its digits is 36. What is the difference between the two digits of that number?",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "9",
+      "d": "12"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 4,
+    "question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1 : 2 ?",
+    "options": {
+      "a": "4",
+      "b": "8",
+      "c": "16",
+      "d": "None of these"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 5,
+    "question": "A two-digit number is such that the product of the digits is 8. When 18 is added to the number, then the digits are reversed. The number is:",
+    "options": {
+      "a": "18",
+      "b": "24",
+      "c": "42",
+      "d": "81"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 6,
+    "question": "The sum of the digits of a two-digit number is 15 and the difference between the digits is 3. What is the two-digit number?",
+    "options": {
+      "a": "69",
+      "b": "78",
+      "c": "96",
+      "d": "Cannot be determined"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 7,
+    "question": "The sum of the squares of three numbers is 138, while the sum of their products taken two at a time is 131. Their sum is:",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "40",
+      "d": "None of these"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 8,
+    "question": "A number consists of two digits. If the digits interchange places and the new number is added to the original number, then the resulting number will be divisible by:",
+    "options": {
+      "a": "3",
+      "b": "5",
+      "c": "9",
+      "d": "11"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 9,
+    "question": "In a two-digit, if its unit digit exceeds its ten digit by 2 and product of the number and sum of digits is 144, then the number is:",
+    "options": {
+      "a": "24",
+      "b": "26",
+      "c": "42",
+      "d": "46"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 10,
+    "question": "Find a positive number which when increased by 17 is equal to 60 times the reciprocal of the number.",
+    "options": {
+      "a": "3",
+      "b": "10",
+      "c": "17",
+      "d": "20"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 11,
+    "question": "Arrange the following fractions in ascending order. 5/9, 8/3, 7/5, 3/5, 1/9\na\\. 1/9, 5/9, 3/5, 7/5, 8/3 b. 5/9, 7/5, 3/5, 1/9, 8/3\nc\\. 1/9, 5/9, 7/5, 3/5, 8/3 d. 8/3, 7/5, 3/5, 5/9, 1/9",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 12,
+    "question": "If \n1+ 1\ud835\udc65\n1+\n1\u2212\ud835\udc65\n= 1, then find the value of \\'x\\'.\na\\. 1/3 b. 2/3 c. 1 d. 5/3",
+    "options": {
+      "a": "1/3",
+      "b": "2/3",
+      "c": "1",
+      "d": "5/3"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 13,
+    "question": "\u200b\n1 3 1\n2\n4\n[1] 3 1\n2 + 1(see formula)\u00f7 3\n2 4 2\na\\. 7/12 b. 5/12 c. 1/12 d. 7/15",
+    "options": {
+      "a": "7/12",
+      "b": "5/12",
+      "c": "1/12",
+      "d": "7/15"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 14,
+    "question": "A person walks 2/5 th of the total distance and covers one-third of the remaining distance by bus. What is the fraction of the remaining distance to be covered?\na\\. 3/5 b. 2/5 c. 7/15 d. 1/5",
+    "options": {
+      "a": "3/5",
+      "b": "2/5",
+      "c": "7/15",
+      "d": "1/5"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 15,
+    "question": "If a/b = 1/3 , b/c = 2, c/d = 1/2 , d/e = 3 and e/f = \u00bc then what is the value of abc/def ?\na\\. \u00bc b. \u00be c. 3/8 d. 27/4",
+    "options": {
+      "a": "\u00bc",
+      "b": "\u00be",
+      "c": "3/8",
+      "d": "27/4"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 16,
+    "question": "50.25 \u00d7 1250.25 =?\n2560.1 \u00d7 2560.15\na\\. 5 b. 4/5 c. 4 d. 5/4",
+    "options": {
+      "a": "5",
+      "b": "4/5",
+      "c": "4",
+      "d": "5/4"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 17,
+    "question": "If x = ; y = then find x + y \n\u221a3\u22121 \u221a3+1\na\\. 0 b. 14 c. 3 d. 13",
+    "options": {
+      "a": "0",
+      "b": "14",
+      "c": "3",
+      "d": "13"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 18,
+    "question": "What comes in the place of \\*? (7 x 7) \u00f7 (49 x 7) x (2401) = 7\\* 5. b\\. 3 c. 7 d. 8",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 19,
+    "question": "Find the value of: (1.569\u00d71.569\u00d70.431) + (1.569\u00d70.431\u00d70.431)\n(1.569+0.431)2\u2212 (1.569\u22120.431)2\na\\. 1.5 b. 2 c. 0.5 d. 1",
+    "options": {
+      "a": "1.5",
+      "b": "2",
+      "c": "0.5",
+      "d": "1"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 20,
+    "question": "If 10/7 (1 -- 2.43 x 13 ) = 1.417 + x, then x is\na\\. 0.0417 b. 0.417 c. 0.0081 d. 0.81",
+    "options": {
+      "a": "0.0417",
+      "b": "0.417",
+      "c": "0.0081",
+      "d": "0.81"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 21,
+    "question": "Two friends, Akash & Beenu had some candies each. One of them had 15 candies more than the other. The candy with Akash was 60% of the total candies with them. How many candies did each have?\na\\. 40, 25 b. 47,32 c. 45, 30 d. 49, 34",
+    "options": {
+      "a": "40, 25",
+      "b": "47,32",
+      "c": "45, 30",
+      "d": "49, 34"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 22,
+    "question": "A vessel contains milk and water in which 20% water. 20 litres of mixture was taken out and replaced by water and the ratio becomes 12:13. Find the initial quantity of milk in the vessel?\na\\. 40 litres b. 30 litres c. 50 litres d. 56 litres",
+    "options": {
+      "a": "40 litres",
+      "b": "30 litres",
+      "c": "50 litres",
+      "d": "56 litres"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 23,
+    "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:\na\\. 39, 30 b. 41,32 c. 42,33 d. 43, 34",
+    "options": {
+      "a": "39, 30",
+      "b": "41,32",
+      "c": "42,33",
+      "d": "43, 34"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 24,
+    "question": "If the price of a book is first decreased by 25% and then increased by 20%, then the net change in the price will be?\na\\. 10 b. 20 c. 30 d. 40",
+    "options": {
+      "a": "10",
+      "b": "20",
+      "c": "30",
+      "d": "40"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 25,
+    "question": "The population of a town was 1,60,000 three years ago, If it increased by 3%, 2.5% and 5% respectively in the last three years, then the present population in?\na\\. 155679 b. 167890 \u0441 179890 d. 177366",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 26,
+    "question": "Gaurav spends 30% of his monthly income on food articles, 40% of the remaining on conveyance and clothes and saves 50% of the remaining. If his monthly salary is Rs. 18,400, how much money does he save every month?\na 3864 b. 4903 c. 5849 d. 6789",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 27,
+    "question": "The difference between a number and its two-fifth is 510. What is 10% of that number?\na\\. 75 b. 85 c.95 d. 105",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 28,
+    "question": "If the numerator of a fraction is increased by 150% and the denominator of the fraction is increased by 350%, the resultant fraction is 25/51. What is the original fraction?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 29,
+    "question": "A reduction of 20% percent in the price of rice enables a housewife to buy 5 kg more for rupees 1200. The reduced price per kg of rice? 36. b\\. 45 c. 48 d. 60",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 30,
+    "question": "In an election a person wins over another one by a marginal difference of 680 votes which 17% of total votes. In election 15% votes are invalid. Find the valid votes?\na\\. 3500 b. 4100 c. 3400 d. can\\'t be determined",
+    "options": {
+      "a": "3500",
+      "b": "4100",
+      "c": "3400",
+      "d": "can\\'t be determined"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 31,
+    "question": "Fresh apple contain 80% water while dry apple contain 20% water. If the weight of fresh apple is 240 kg, what is the total weight of water in dry apple?\na\\. 12 kg b. 10 kg c. 15 kg d. 9 kg",
+    "options": {
+      "a": "12 kg",
+      "b": "10 kg",
+      "c": "15 kg",
+      "d": "9 kg"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 32,
+    "question": "The difference between the 41% of a number and 33% of that number is 960. Then, what is the value of 33.33% of that number?\na\\. 3000 b. 5000 c. 4000 d. 6000",
+    "options": {
+      "a": "3000",
+      "b": "5000",
+      "c": "4000",
+      "d": "6000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 33,
+    "question": "X, Y, Z have some coins with them. Y has 40% more than what X has, and Z has 75% of the coins what X has. If X, Y, and Z together have 252 coins, then how many coins does X alone have?\na\\. 60 b. 100 c. 84 d. 80",
+    "options": {
+      "a": "60",
+      "b": "100",
+      "c": "84",
+      "d": "80"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 34,
+    "question": "Rajvir scores 20% marks in an examination and fails by 50 marks, if he scores 50% marks and gets 40 more marks than the passing marks then what is the maximum score in the examination?\na\\. 250 b. 300 c. 350 d. 400",
+    "options": {
+      "a": "250",
+      "b": "300",
+      "c": "350",
+      "d": "400"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 35,
+    "question": "Anuj multiplied a number by 7/4 instead of 4/7 by mistake. Find the percentage error in the calculation.\na\\. 206.25% b. 204.25% c. 203.25% d. 201.25%",
+    "options": {
+      "a": "206.25%",
+      "b": "204.25%",
+      "c": "203.25%",
+      "d": "201.25%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 36,
+    "question": "In a society level election, there were two candidates, The winning candidate was supported by 49% of all the voters in the voting list and 20% of all the voters in the voting list did not cast their votes, and 40 voters cast their ballot paper blank. If the winning candidate won the election by 760, then find the total number of voters in the voting list.\na\\. 3,600 b. 4,400 c. 4,800 d. 4,000",
+    "options": {
+      "a": "3,600",
+      "b": "4,400",
+      "c": "4,800",
+      "d": "4,000"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 37,
+    "question": "C is 20% less than A and 25% more than B. Find A is what % more than B?\na\\. 225/4% b. 227/5% c. 226/7% d. 223/3%",
+    "options": {
+      "a": "225/4%",
+      "b": "227/5%",
+      "c": "226/7%",
+      "d": "223/3%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 38,
+    "question": "The average score of seven batsmen is 57. After the 8th batsman, the average batting score of all batsman is 60. If the score of the 9th batsman is equal to the square root of the 8th batsman score, then find the percentage change in the initial average score and final average score.\na\\. 5.66% b. 6.33% c. 5% d. 4.68%",
+    "options": {
+      "a": "5.66%",
+      "b": "6.33%",
+      "c": "5%",
+      "d": "4.68%"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 39,
+    "question": "The population of a city is 144000, out of which 40% are females and 60% are males of which 20% males are married. Find the percentage of married population.\na\\. 12% b. 20% c. 24% d. 10%",
+    "options": {
+      "a": "12%",
+      "b": "20%",
+      "c": "24%",
+      "d": "10%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 40,
+    "question": "A test comprising of 120 questions has 25% question of English, 65 questions of Maths and remaining of Science. If a student answered 80% question of English, 60% of questions of maths and 80% of Science. Calculate the number of questions the students didn\\'t answer. 36. b\\. 36 c. 25 d. 42",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 41,
+    "question": "Difference of two numbers is 108. If one number is decreased by 15% and other number is increased by 19% then the numbers obtained are equal. Find the sum of the two numbers.\na\\. 390 b. 684 c. 648 d. 730",
+    "options": {
+      "a": "390",
+      "b": "684",
+      "c": "648",
+      "d": "730"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 42,
+    "question": "Raman decided to buy a watch from 20% of his salary. On the day of purchase, he changed his mind and bought the watch worth Rs. 3870 which was 90% of what he had decided earlier. How much is Raman\\'s salary (Approx.)?\na\\. Rs. 25000 b. Rs. 20000 c. Rs. 21500 d. Rs. 22500",
+    "options": {
+      "a": "Rs. 25000",
+      "b": "Rs. 20000",
+      "c": "Rs. 21500",
+      "d": "Rs. 22500"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 43,
+    "question": "A car has certain value and its value depreciates at 20% after first year and its value depreciates 10% after second year. If the value of the car is Rs. 144000 at the end of 2 years then what was the value of the car initially?\na\\. Rs. 180000 b. Rs. 300000 c. Rs. 250000 d. Rs. 200000",
+    "options": {
+      "a": "Rs. 180000",
+      "b": "Rs. 300000",
+      "c": "Rs. 250000",
+      "d": "Rs. 200000"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 44,
+    "question": "Nanu spends 20% of his salary on food, 10% of remaining on Mobile accessories, 35% of remaining salary on online shopping. If the difference in money spent on online shopping and food is Rs. 8,840, then find the total salary of Nanu.\na\\. Rs. 1,60,000 b. Rs. 1,80,000 c. Rs. 1,70,000 d. Rs. 150,000",
+    "options": {
+      "a": "Rs. 1,60,000",
+      "b": "Rs. 1,80,000",
+      "c": "Rs. 1,70,000",
+      "d": "Rs. 150,000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 45,
+    "question": "The total number of reserved seats in a stadium increases and decreases in every alternate match between India and Australia by 20%. If it started with an increase in the first match, then find the total change in the number of reserved seats in the stadium in the third match as compared to the initially reserved seats.\na\\. Increased by 15.2% b. Decreased by 15.2%\nc\\. Increased by 23.2% d. Decreased by 23.2%",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 46,
+    "question": "The population of the town is increased by 20% in the first year and then it is decreased by 16 2/3% in the second year. Find the net percent change in the population of the town.\na\\. 0% b. 10% c. 7% d. 12%",
+    "options": {
+      "a": "0%",
+      "b": "10%",
+      "c": "7%",
+      "d": "12%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 47,
+    "question": "When price of any article is reduced by 20%, a person can buy 25 articles more for Rs. 5000. What was the initial price of the article?\na\\. Rs. 40 b. Rs. 50 c. Rs. 100 d. Rs. 125",
+    "options": {
+      "a": "Rs. 40",
+      "b": "Rs. 50",
+      "c": "Rs. 100",
+      "d": "Rs. 125"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 48,
+    "question": "ratio of income and expenditure is 7: 5. Income increases by 50% and expenditure decreases by 20%. If the initial expenditure is Rs.15000. Find the final saving.\na\\. Rs. 12000 b. Rs. 31500 c. Rs. 19500 d. Rs. 21500",
+    "options": {
+      "a": "Rs. 12000",
+      "b": "Rs. 31500",
+      "c": "Rs. 19500",
+      "d": "Rs. 21500"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 49,
+    "question": "The present population of a town is 1,00,000. due to pandemic persons migrate to small cities and population decreases every month at the rate of 20%. Then find the population of town after 3 months.\na\\. 50,800 b. 51,200 c. 52,600 d. 54,500",
+    "options": {
+      "a": "50,800",
+      "b": "51,200",
+      "c": "52,600",
+      "d": "54,500"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 50,
+    "question": "In a town, the population was 12,000. In a year population of males increased by 35% and the population of females also increased by 20%. If the population after the change is 15,600, then find the female population after changes.\na\\. 4500 b. 4000 c. 4800 d. 4200",
+    "options": {
+      "a": "4500",
+      "b": "4000",
+      "c": "4800",
+      "d": "4200"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 51,
+    "question": "Find the rate of discount when the marked price is Rs. 1880 and selling price is Rs. 1598.\na\\. 13% b. 12% c. 20% d. 15%",
+    "options": {
+      "a": "13%",
+      "b": "12%",
+      "c": "20%",
+      "d": "15%"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 52,
+    "question": "Kavita buys an old scooter for Rs. 4,900 and spends Rs. 1,100 on its repair. If she sells the scooter for Rs. 9,000, then her gain percentage is:\na\\. 72% b. 60% c. 50% d. 40%",
+    "options": {
+      "a": "72%",
+      "b": "60%",
+      "c": "50%",
+      "d": "40%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 53,
+    "question": "Suresh purchased a bike for \\'x\\' and marked this up by 20%. He sold this bike to a person after allowing Rs. 8400 discount and earned 8% profit, then at what price Suresh purchased that bike?\na\\. Rs. 70000 b. Rs. 50000 c. Rs. 60000 d. Rs. 75000",
+    "options": {
+      "a": "Rs. 70000",
+      "b": "Rs. 50000",
+      "c": "Rs. 60000",
+      "d": "Rs. 75000"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 54,
+    "question": "An article was marked for \u20b92,500. Had a discount of 10% been offered, a profit of 12.5% would have been made. What was the cost price?\na\\. \u20b92,000 b. \u20b91,800 c. \u20b92,250 d. \u20b92,100",
+    "options": {
+      "a": "\u20b92,000",
+      "b": "\u20b91,800",
+      "c": "\u20b92,250",
+      "d": "\u20b92,100"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 55,
+    "question": "30 dozen of nuts were bought for Rs. 14400 and another 32 packets of nuts (20 nuts in each packet) were bought for Rs. 57600. If the nuts are mixed and then sold in a packet of five for Rs. 432, then how much is the profit percentage?\na\\. 25% b. 15% c. 20% d. 30%",
+    "options": {
+      "a": "25%",
+      "b": "15%",
+      "c": "20%",
+      "d": "30%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 56,
+    "question": "A book marked price of Rs. 1500 sold after two successive discount 10% and 20%, what is the single equivalent discount?\na\\. 30% b. 25% c. 28% d. 20%",
+    "options": {
+      "a": "30%",
+      "b": "25%",
+      "c": "28%",
+      "d": "20%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 57,
+    "question": "By selling a transistor for Rs. 572, a shopkeeper earns a profit equivalent to 30% of the cost price of the transistor. What is the cost price of the transistor?\na\\. Rs. 420 b. Rs. 400 c. Rs. 440 d. Rs. 340",
+    "options": {
+      "a": "Rs. 420",
+      "b": "Rs. 400",
+      "c": "Rs. 440",
+      "d": "Rs. 340"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 58,
+    "question": "If the manufacturer gains 10%, the wholesale dealer gains 15% and the retailer gains 25%, then find the cost of production of a table, if the retail price was Rs.1265.\na\\. Rs.800 b. Rs.750 c. Rs.850 d. Rs.900",
+    "options": {
+      "a": "Rs.800",
+      "b": "Rs.750",
+      "c": "Rs.850",
+      "d": "Rs.900"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 59,
+    "question": "If the ratio of selling price to the cost price of an article is 15: 8, then what is the profit percentage?\na\\. 62.5% b. 37.5% c. 52.5% d. 87.5%",
+    "options": {
+      "a": "62.5%",
+      "b": "37.5%",
+      "c": "52.5%",
+      "d": "87.5%"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 60,
+    "question": "Two articles are sold for Rs. 840 and Rs. 960 at 20% gain and 4% loss respectively. What is the overall gain or loss percent?\na\\. 5 (15/17) % loss b. 5 (5/17) % loss\nc\\. 5 (15/17) % gain d. 5 (5/17) % gain",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 61,
+    "question": "A chair is sold at a profit of 30%. If the cost price and selling price were Rs. 720 less, then profit would be 18% more. Find the cost price.\na\\. Rs. 1,920 b. Rs. 2,120 c. Rs. 3,920 d. Rs. 2,920",
+    "options": {
+      "a": "Rs. 1,920",
+      "b": "Rs. 2,120",
+      "c": "Rs. 3,920",
+      "d": "Rs. 2,920"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 62,
+    "question": "A discount of 35% on an article is the same as a discount of 15% on another article. The marked price of the two articles can be;\na\\. Rs. 160 and Rs. 140 b. Rs. 140 and Rs. 180\nc\\. Rs. 60 and Rs. 140 d. Rs. 140 and Rs. 120",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 63,
+    "question": "A small pack of power banks containing 4 pieces is sold at Rs. 1800 and a large pack of same power banks containing 15 pieces is sold after allowing certain discount at Rs. 6210, then what is the effective discount percent, given on the large pack?\na\\. 10% b. 15% c. 8% d. 12%",
+    "options": {
+      "a": "10%",
+      "b": "15%",
+      "c": "8%",
+      "d": "12%"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 64,
+    "question": "A person marks his goods 30% above the cost price. He sells 60% of the goods at the marked price and the rest at 15% loss. What is his gain percent on the whole transactions?\na\\. 15 b. 12 c.9 d. 10 \u00bd",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 65,
+    "question": "Ramesh gains a 20% profit on the cost price after giving a discount of 10% on the marked price of the PPE Kit. If the profit on the PPE kit is Rs.90, then find the marked price of the PPE kit.\na\\. Rs. 500 b. Rs. 600 c. Rs. 550 d. Rs. 800",
+    "options": {
+      "a": "Rs. 500",
+      "b": "Rs. 600",
+      "c": "Rs. 550",
+      "d": "Rs. 800"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 66,
+    "question": "Profit percentage earned by selling an article for Rs. 1920 is equal to the loss percentage when the article is sold for Rs. 1280. At what price should it be sold, if the profit is to be 30%?\na\\. Rs.2060 b. Rs.2040 c. Rs.2080 d. Rs.2000",
+    "options": {
+      "a": "Rs.2060",
+      "b": "Rs.2040",
+      "c": "Rs.2080",
+      "d": "Rs.2000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 67,
+    "question": "A shopkeeper buys an article for Rs 1500. He marks it above 25% of the cost. If the article is sold after allowing a discount of 15% on the marked price, then his profit/loss is:\na\\. Rs. 98.75 loss b. Rs. 93.75 profit c. Rs. 91.50 loss d. Rs. 91.50\nprofit",
+    "options": {
+      "a": "Rs. 98.75 loss",
+      "b": "Rs. 93.75 profit",
+      "c": "Rs. 91.50 loss",
+      "d": "Rs. 91.50"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 68,
+    "question": "The marked price of an article is 25% above the cost price. If it sold for Rs. 450 after a discount of Rs. 78.75, then profit/loss percentage is closest to.\na\\. 6.4% profit b. 6.4% loss c. 5.6% loss d. 5.6% profit",
+    "options": {
+      "a": "6.4% profit",
+      "b": "6.4% loss",
+      "c": "5.6% loss",
+      "d": "5.6% profit"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 69,
+    "question": "A toy was marked up by 90%. The overall profit percentage is 30%. If a profit of Rs. 45 is obtained in the process, then find the marked price.\na\\. Rs. 325 b. Rs. 275 c. Rs. 295 d. Rs. 285",
+    "options": {
+      "a": "Rs. 325",
+      "b": "Rs. 275",
+      "c": "Rs. 295",
+      "d": "Rs. 285"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 70,
+    "question": "The single discount equivalent to two successive discounts of 20% and 15% is:\na\\. 28% b. 22% c. 30% d. 32%",
+    "options": {
+      "a": "28%",
+      "b": "22%",
+      "c": "30%",
+      "d": "32%"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 71,
+    "question": "A, B, and C are three partners in the business. A and B started a business to manufacture the PPE kit in January with Rs. 150000 and Rs.200000. After 4 months, C also joins the business with Rs.225000, and B withdraws his capital after 9 months then finds the share of profit of B in a total profit of Rs.90000 at the end of the year.\na\\. Rs. 36000 b. Rs. 32000 c. Rs. 30000 d. Rs. 24000",
+    "options": {
+      "a": "Rs. 36000",
+      "b": "Rs. 32000",
+      "c": "Rs. 30000",
+      "d": "Rs. 24000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 72,
+    "question": "A and B enter into a partnership with Rs. 50000 and Rs. 60000 respectively. C joins them after \\'x\\' months, contributing Rs. 70000 and B leaves \\'x\\' months before the end of the year. If they share the profit in the ratio of 20: 18: 21, then find the value of \\'x\\'.\na\\. 3 b. 4 c. 5 d. 6",
+    "options": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 73,
+    "question": "Akshay and Kalpesh are partners in a business. Akshay invests 3/4th of the capital for 5 months. Kalpesh received 1/2 of the total profit. For how many months did Kalpesh invest his capital?\na\\. 9 months b. 12 months c. 15 months d. 18 months",
+    "options": {
+      "a": "9 months",
+      "b": "12 months",
+      "c": "15 months",
+      "d": "18 months"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 74,
+    "question": "Three partners John, Johny and Janardan, started a company by investing Rs. 28,000, Rs. 44,000 and Rs. 56,000 respectively. The total annual profit was Rs. 44800. Find the share of each partner in annual profit.\na\\. Rs. 9200, Rs. 14400 and Rs. 21200 b. Rs. 9800, Rs. 15400 and Rs.\n19600\nc\\. Rs. 9000, Rs. 14,000 and Rs. 20800 d. Rs. 8000, Rs. 14200 and Rs.\n22600",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 75,
+    "question": "P, Q and R together start a business with an investment of Rs. 9200, Rs. 8400 and Rs. 9800. After 12 months, P and Q increase his investment by 20% and 30% respectively while R decreased his investments by 5%. After 12 more months, all of three increase their investments by 20% with respect to their previous year\\'s investment. Find the sum of the equivalent investments by all the three in 36 months.\na\\. Rs. 54468 b. Rs. 96194 c. Rs. 85048 d. Rs. 78066",
+    "options": {
+      "a": "Rs. 54468",
+      "b": "Rs. 96194",
+      "c": "Rs. 85048",
+      "d": "Rs. 78066"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 76,
+    "question": "A mobile is sold for Rs. 15000 in cash. There is an instalment plan under which customer had to make a down payment of Rs. 7800 and an instalment of Rs. 7500 after a month. Find the rate of interest for the instalment plan.\na\\. 50% b. 40% c. 4% d. 5%",
+    "options": {
+      "a": "50%",
+      "b": "40%",
+      "c": "4%",
+      "d": "5%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 77,
+    "question": "A receives 7/15th of the total profit and remaining is divided between B and C in the ratio of 1: 3. If the difference between the profit shares of C and A is Rs. 2000. What is B\\'s share?\na\\. Rs. 3000 b. Rs. 3500 c. Rs. 4000 d. Rs. 5000",
+    "options": {
+      "a": "Rs. 3000",
+      "b": "Rs. 3500",
+      "c": "Rs. 4000",
+      "d": "Rs. 5000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 78,
+    "question": "Gaurav and Dinesh started a catering business with Rs. 2,20,000 where Gaurav invested 62.5% of the total amount. After 6 months, Esha joins them with an investment of Rs. 1,00,000. At the end of 2.5 years, the company made a net profit of Rs. 1,80,000, What is the difference between the profit of Dinesh and Gaurav in Rs.\na\\. 62500 b. 35800 c. 33000 d. 57500",
+    "options": {
+      "a": "62500",
+      "b": "35800",
+      "c": "33000",
+      "d": "57500"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 79,
+    "question": "Anil and Mukesh entered into a partnership and invested money in the ratio of 2: 3. The value of Anil\\'s share in profit is . The ratio of the time period of their investments is 3: 2 and the profit is Rs. 10000.\na\\. Rs. 3950 b. Rs. 5550 c. Rs. 5000 d. Rs. 3000",
+    "options": {
+      "a": "Rs. 3950",
+      "b": "Rs. 5550",
+      "c": "Rs. 5000",
+      "d": "Rs. 3000"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 80,
+    "question": "Two persons Ankur and Bhanu invested in a business Rs. 23000 and Rs. 15000 respectively. They agree that 76% of the profit should be divided between them according to their investment and rest is divided divided equally among them. If Ankur got Rs. 112 more than Bhanu, then the total profit is.\na\\. 720 b. 700 c. 800 d. 200",
+    "options": {
+      "a": "720",
+      "b": "700",
+      "c": "800",
+      "d": "200"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 81,
+    "question": "If a : b = 3 : 4, b : c = 7 : 9, c : d = 5 : 7, find a :d ?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 82,
+    "question": "Find the fourth proportional to 0.2, 0.12 and 0.3?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 83,
+    "question": "There are three numbers such that one number is 20% more than a third number and the second number is 50% more than a first number. The ratio of two numbers is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 84,
+    "question": "In a mixture 60 litres, the ratio of milk and water 2 : 1. If the this ratio is to be 1 : 2, then the quanity of water to be further added is:",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 85,
+    "question": "The number of candidates writing three different entrance exams is in the ratio 4 : 5 : 6. There is a proposal to increase these numbers of candidates by 40%, 60% and 85% respectively. What will be the ratio of increased numbers?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 86,
+    "question": "If A : B = 5 : 7 and B : C = 6 : 11, then A : B : C is:",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 87,
+    "question": "Ankit gives 60% of his salary to his wife and she spends 40% of the amount she gets on food. Out of the remaining amount, respective ratio between the amount she spends on children education and the amount she keeps as saving is 4 : 11. If the spends Rs.2,880 on the children education, then what is the Ankit's salary?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 88,
+    "question": "A trader has 44 kg of rice, a part of which he sells at 14% profit and the rest at 8% loss. On the whole, his loss is 4%. What is the quantity sold at 14% profit and that at 8% loss?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 89,
+    "question": "A container contained 80 L milk. For this container 8 L of milk was taken out and replaced by water. This process was further repeated two times. How much milk is now contained in the container?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 90,
+    "question": "In an alloy, zinc and copper are in the ratio 1:2. In the second alloy, the same elements are in the ratio 2:3. If these two alloys be mixed to form a new alloy in which two elements are in the ratio 5:8, the ratio of these two alloys in the new alloys is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 91,
+    "question": "A jar contained a mixture of two liquids A and B in the ratio 4:1. When 10 litres of the mixture was taken out and 10 litres of liquid B was poured in the jar, this ratio became 2:3. The quantity of liquid B contained in the jar initially was?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 92,
+    "question": "The ratio in which two sugar solutions of the concentrations 15% and 40% are to be mixed to get a solution of concentration 20% is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 93,
+    "question": "A vessel of 80 litre is filled with milk and water. 60% of milk and 40% of water are taken out of the vessel. It is found that the vessel is empty by 55%. Find the initial quantity of milk and water?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 94,
+    "question": "A mixture of 40 litres of milk and water contains 10% water. How much water must be added to make 40% water in the new mixture?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 95,
+    "question": "A man mixes 5 kilolitres of milk at Rs.600 per kiloliter with 6 kilolitres at Rs.540 per kiloliter. How many kilolitres of water should be added to make the average value of the mixture Rs.480 per kilolitre?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 96,
+    "question": "Gold is 19 litres as heavy as water and copper is 9 times as heavy as water. In what ratio should these metals be mixed so that the mixture may be 15 litres as heavy as water?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 97,
+    "question": "How much tea at Rs.4 a kg should be added to 15 kg of tea at Rs.10 a kg so that the mixture be wroth Rs.6.50 a kg?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 98,
+    "question": "A sum of Rs.6.40 is made up of 80 coins which are either 10-paise or 5-paise coins. How many are coins of 5-paise?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 99,
+    "question": "In a zoo, there are rabbits and pigeons. If the heads are counted, there are 200 and if legs are counted, there are 580. How many pigeons are there?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 100,
+    "question": "A man has 60 pens. He sells some of these at a profit of 12% and the rest at 8% loss. On the whole, he gets a profit of 11%. How many pens were sold at 12% profit?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 101,
+    "question": "A sum of Rs.41 was divided amount 50 children. Each boy gets 90 paise and each girl 65 paise. The number of boys is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 102,
+    "question": "200 litres of mixture contains 15% water and the rest is milk. The amount of milk that must be added so that the resulting mixture contains 87.5% milk is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 103,
+    "question": "A jar contained a mixture of two liquids A and B in the ratio 4:1. When 10 litres of the mixture was taken out and 10 litres of liquid B was poured into the jar, this ratio became 2:3.\nThe quantity of liquid A contained in the jar initially was",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 104,
+    "question": "In a mixture of 75 litres, the ratio of milk to water is 2:1. The amount of water to be further added to the mixture so as to make the ratio of the milk to water 1:2 will be",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 105,
+    "question": "Two types of alloys posses gold and silver in the ratio of 7:22 and 21:37. In what ratio should these alloys be mixed so as to have a new alloy in which gold and silver would exist in the ratio 25:62?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 106,
+    "question": "If the ratio of ages of two persons is 3:4 and the sum of their ages is 56 years, find the age of the elder person.",
+    "options": {
+      "a": "21",
+      "b": "32",
+      "c": "24",
+      "d": "28"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 107,
+    "question": "The ratio of the ages of A and B is 4:5. If A is 12 years old, what is B's age?",
+    "options": {
+      "a": "14 years",
+      "b": "15 years",
+      "c": "16 years",
+      "d": "18 years"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 108,
+    "question": "A triangle has angles in the ratio 2:3:4. What is the measure of the largest angle?",
+    "options": {
+      "a": "60\u00b0",
+      "b": "80\u00b0",
+      "c": "90\u00b0",
+      "d": "100\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 109,
+    "question": "A sum of money is divided among P,Q,R and S in the ratio 5:4:7:9 respectively. If the share of P is Rs.2300 more than that of Q, then what is the total amount of R and S together ?",
+    "options": {
+      "a": "Rs.36800",
+      "b": "Rs.36000",
+      "c": "Rs.35000",
+      "d": "Rs.37200"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 110,
+    "question": "A jar containing 60 litres of the mixture of milk and water. The respective ratio of milk and water in the ratio 7:5. From the jar 12litres of the mixture was taken out and 6 liters of pure milk was added. What is the respective ratio of milk and water after the final operation?",
+    "options": {
+      "a": "12:17",
+      "b": "13:19",
+      "c": "9:7",
+      "d": "17:10"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 111,
+    "question": "Two numbers are respectively 20% and 50% more than a third number. The ratio of the two numbers is:",
+    "options": {
+      "a": "2 : 5",
+      "b": "3 : 5",
+      "c": "4 : 5",
+      "d": "6 : 7"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 112,
+    "question": "A sum of money is to be distributed among A, B, C, D in the proportion of 5 : 2 : 4 : 3. If C gets Rs. 1000 more than D, what is B\\'s share?",
+    "options": {
+      "a": "Rs. 500",
+      "b": "Rs. 1500",
+      "c": "Rs. 2000",
+      "d": "None of these"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 113,
+    "question": "Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?",
+    "options": {
+      "a": "2 : 3 : 4",
+      "b": "6 : 7 : 8",
+      "c": "6 : 8 : 9",
+      "d": "None of these"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 114,
+    "question": "In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quantity of water to be further added is:",
+    "options": {
+      "a": "20 litres",
+      "b": "30 litres",
+      "c": "40 litres",
+      "d": "60 litres"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 115,
+    "question": "The ratio of the number of boys and girls in a college is 7 : 8. If the percentage increase in the number of boys and girls be 20% and 10% respectively, what will be the new ratio?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 116,
+    "question": "The salaries of A, B, and C are in the ratio of 1 : 2 : 3. The salary of B and C together is Rs. 6000. By what percent is the salary of C more than that of A?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 117,
+    "question": "A sum of Rs. 427 is to be divided among A, B and C such that 3 times A's share, 4 tunes B's share and 7 times C's share are all equal. The share of C is :",
+    "options": {
+      "a": "Rs. 84",
+      "b": "Rs. 94",
+      "c": "Rs. 64",
+      "d": "Rs. 74"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 118,
+    "question": "In a zoo, there are rabbits and pigeons. If heads are counted, there are 340 heads and if legs are counted there are 1060 legs.How many pigeons are there?",
+    "options": {
+      "a": "140",
+      "b": "130",
+      "c": "120",
+      "d": "150"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 119,
+    "question": "Jo\\'s collection contains US, Indian and British stamps. If the ratio of US to Indian stamps is 5 to 2 and the ratio of Indian to British stamps is 5 to 1, what is the ratio of US to British stamps?",
+    "options": {
+      "a": "25 : 3",
+      "b": "25 : 4",
+      "c": "25 : 2",
+      "d": "25 : 7"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 120,
+    "question": "A dog takes 3 leaps for every 5 leaps of a hare. If one leap of the dog is equal to 3 leaps of the hare, the ratio of the speed of the dog to that of the hare is :",
+    "options": {
+      "a": "9 : 7",
+      "b": "9 : 5",
+      "c": "9 : 4",
+      "d": "9 : 1"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 121,
+    "question": "In a college, the ratio of the number of boys to girls is 8 : 5. If there are 160 girls, the total number of students in the college is",
+    "options": {
+      "a": "416",
+      "b": "425",
+      "c": "434",
+      "d": "487"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 122,
+    "question": "Eesha bought two varieties of rice, costing 50 rs per kg and 60 rs pre kg each, and mixed them in some ratio. Then she sold the mixture at 70 rs per kg. Making a profit of 20 percent. What was the ratio of the mixture?",
+    "options": {
+      "a": "1:3",
+      "b": "1:7",
+      "c": "1 : 5",
+      "d": "1:9"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 123,
+    "question": "On a certain assembly line the rejection rate for hyundai i10's production was 4 percent for hyundai i20's production 8 percent and the two cars combined 7 percent . what was the ratio of hyundai i20's production to hyundai i10's production?",
+    "options": {
+      "a": "3:1",
+      "b": "5:1",
+      "c": "7:1",
+      "d": "9:1"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 124,
+    "question": "The savings of an employee equals income-expenditure. If the income of A, B, C is in the ratio 1:2:3, expenses 3:2:1. What is the order of employees A, B. C in the decreasing order of the size of their savings?",
+    "options": {
+      "a": "c\\>b\\>a",
+      "b": "b\\>c\\>a",
+      "c": "a\\>b\\>c",
+      "d": "c\\>a\\>b"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 125,
+    "question": "The present ratio of students to teachers at a certain school is 30 to 1. If the student enrollment were to increase by 50 students and the number of teachers were to increase by 5, the ratio of the teachers would then be 25 to 1 What is the present number of teachers?",
+    "options": {
+      "a": "13",
+      "b": "12",
+      "c": "11",
+      "d": "15"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 126,
+    "question": "A can do a certain work in 15 days, while Working together, A and B can do the same work in 7.5 days. How many days will B alone take to do the same work?\na\\. 15 days b. 12.5 days c. 17.5 days d. 20 days",
+    "options": {
+      "a": "15 days",
+      "b": "12.5 days",
+      "c": "17.5 days",
+      "d": "20 days"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 127,
+    "question": "If 6 men and 8 boys can complete a work in 10 days and 26 men and 48 boys can do it in 2 days, then find the ratio of capacity of a man to that of a boy.\na\\. 2:1 b. 6:5 c. 4:3 d. 3:2",
+    "options": {
+      "a": "2:1",
+      "b": "6:5",
+      "c": "4:3",
+      "d": "3:2"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 128,
+    "question": "A work is completed by P and Q working together 8 hours per day. Working 8 hours a day P alone will take 12 days to complete work, while working alone Q will take 10 days working 12 hours a day, to complete it. In how many days did they complete the work together?\na\\. 7 days b. 6 2/3 days c. 6 \u00bd days d. 5 \u00bc days",
+    "options": {
+      "a": "7 days",
+      "b": "6 2/3 days",
+      "c": "6 \u00bd days",
+      "d": "5 \u00bc days"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 129,
+    "question": "A and C can do a work in 12 days while A, B and C can do the work in 4 days. In how many days can B do the work alone?\na\\. 4.67 days b. 6 days c. 5.25 days d. 5.67 days",
+    "options": {
+      "a": "4.67 days",
+      "b": "6 days",
+      "c": "5.25 days",
+      "d": "5.67 days"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 130,
+    "question": "On 2 January 2019 in a garrison, there was food for 500 soldiers till the end of February. Out of which 60% of soldiers left the garrison after 20 days, then find out how long the remaining soldier would able to carry on with the remaining food.\na\\. 85 days b. 80 days c. 105 days d. 95 days",
+    "options": {
+      "a": "85 days",
+      "b": "80 days",
+      "c": "105 days",
+      "d": "95 days"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 131,
+    "question": "Person A, B and C can complete a task together in 81 days. A and B can completed the same task together in 97.2 days. B and C can complete the same task together in 162 days. In how many days can B alone complete the task?\na\\. 243 b. 225 c. 261 d. 234",
+    "options": {
+      "a": "243",
+      "b": "225",
+      "c": "261",
+      "d": "234"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 132,
+    "question": "Twelve persons can construct a 320 m long wall in 32 days working 8 hours a day. In how many days can 40 persons construct a 250 m long wall working 10 hours a day? 9. b\\. 10 c. 8 d. 6",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 133,
+    "question": "A do a work in twice the time as B does it. C takes half the time than the time taken by A to finish the same work. If they work together and finish a work in 24 days, then find the time B will take to do the work alone.\na\\. 45 days b. 60 days c. 50 days d. 75 days",
+    "options": {
+      "a": "45 days",
+      "b": "60 days",
+      "c": "50 days",
+      "d": "75 days"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 134,
+    "question": "A can complete a certain work in 30 days. A started the work and B joined him after 4 days then the total work gets completed in total 20 days. In how many days can B alone complete the work?\na\\. 48 b. 42 c. 50 d. 45",
+    "options": {
+      "a": "48",
+      "b": "42",
+      "c": "50",
+      "d": "45"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 135,
+    "question": "P and Q can individually do some work in 60 and 75 days respectively. They started working together. But P left after some time. Q completed the work in another 30 days. In how many days after starting the work did P leave?\na\\. 24 b. 20 c. 25 d. 32",
+    "options": {
+      "a": "24",
+      "b": "20",
+      "c": "25",
+      "d": "32"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 136,
+    "question": "1 man complete a task in 15 days, 1 woman complete the same task in 20 days, then how many days 1 man and 2 women complete the task in:\na\\. 5 days b. 2 days c. 6 days d. 8 days",
+    "options": {
+      "a": "5 days",
+      "b": "2 days",
+      "c": "6 days",
+      "d": "8 days"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 137,
+    "question": "Efficiency of 1 man, 1 woman and 1 boy is 5:4:3. If 1 boy alone can complete the work in 20 days, then find in how many days altogether they can complete the whole work? 5. b\\. 8 c.5 d. 10",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 138,
+    "question": "A man alone can complete a work in 15 days while a boy alone can complete the same work in 20 days. The efficiency of 1 woman is 25% less than that of 1 man. Then altogether they can complete the whole work in? 9. b\\. 8 c. 6 d. 4",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 139,
+    "question": "Ram alone can complete a work in 30 days. Efficiency of Lakshman is 50% more than that of Ram. If they work together then in how many days the whole work is complete? 8. b\\. 12 c. 10 d. 15",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 140,
+    "question": "The efficiency of C doing a work is 30% when compared to A. B and A work at the same rate. B and C can finish the work in 30 days. Find the time taken by A alone to finish the work.\na\\. 39 days b. 36 days c. 42 days d. 45 days",
+    "options": {
+      "a": "39 days",
+      "b": "36 days",
+      "c": "42 days",
+      "d": "45 days"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 141,
+    "question": "The efficiency of B doing a certain work is double the efficiency of A. Find the ratio of work done when B takes three times time than A.\na\\. 5:6 b. 5:1 c. 4:1 d. 6:1",
+    "options": {
+      "a": "a\\. 5:6",
+      "b": "5:1",
+      "c": "4:1",
+      "d": "6:1"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 142,
+    "question": "Rakesh and Birjesh together can complete a work in 15 days. Rakesh alone can complete the same work in 30 days. If Birjesh does the work for only half a day daily; then in how many days will Rakesh and Birjesh together complete the work?\na\\. 20 days b. 10 days c. 11 days d. 15 days",
+    "options": {
+      "a": "20 days",
+      "b": "10 days",
+      "c": "11 days",
+      "d": "15 days"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 143,
+    "question": "G is twice as fast as S in doing work. If G can do a work in 30 days, in how many days will they take to complete the work together?\nA. 25\nB. 20\nC. 22\nD. 15\na\\. D b. B c. A d. C",
+    "options": {
+      "a": "25",
+      "b": "20",
+      "c": "22",
+      "d": "15"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 144,
+    "question": "P can complete a work in 6 days. Working with the help of Q, the job is completed in 7 days, if P starts the work and P and Q work on alternate days. In how many days can Q alone complete the job?\na\\. 10 b. 8 c.9 d. 12",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 145,
+    "question": "If 1 man or 2 women or 3 children can do a work in 64 days, number of days 1 man, 2 women and 2 children will take is?\na\\. 32 days b. 40 days c. 24 days d. 20 days",
+    "options": {
+      "a": "32 days",
+      "b": "40 days",
+      "c": "24 days",
+      "d": "20 days"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 146,
+    "question": "Capacities of two workers P and Q are in the ratio 3: 2. What amount of the daily wages of Rs. 400 should be given to P?\na\\. Rs. 160 b. Rs. 260 c. Rs. 250 d. Rs. 240",
+    "options": {
+      "a": "Rs. 160",
+      "b": "Rs. 260",
+      "c": "Rs. 250",
+      "d": "Rs. 240"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 147,
+    "question": "A, B and C are employed to complete a work in Rs. 784. If A and B together complete 23/28 of the work. Calculate the wages (in Rs.) paid to C?\n\u0391. 280\nB. 140\nC. 70\nD. 56\na\\. A b. D c. C d. B",
+    "options": {
+      "a": "A",
+      "b": "D",
+      "c": "C",
+      "d": "B"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 148,
+    "question": "A and B can do a work in 10 days and 15 days respectively. With the help of C, they can finish the work in 5 days. If A and B decided to work for Rs.4800, how much should be paid (in Rs.) to C?\na\\. 750 b. 600 c. 700 d. 800",
+    "options": {
+      "a": "750",
+      "b": "600",
+      "c": "700",
+      "d": "800"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 149,
+    "question": "P and Q agree to do a job for Rs. 850. Q alone can do it in 40 days. But P is twice as fast as Q. In order to finish the job earlier, they take the help of R and all three finish the work in 8 days. How much should R be paid for his work?\na\\. Rs. 340 b. Rs. 300 c. Rs. 240 d. Rs. 320",
+    "options": {
+      "a": "Rs. 340",
+      "b": "Rs. 300",
+      "c": "Rs. 240",
+      "d": "Rs. 320"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 151,
+    "question": "Rs. 10,000/- has to be distributed among 3 craftsmen, 5 helpers and 6 laborer\\'s such that each helper receives the amount twice as much as a laborer receives and each craftsman received the amount thrice as much as a laborer receives. What is the amount received by the three craftsman?\na\\. Rs. 2,700 b. Rs. 2,400 c. Rs. 4,000 d. Rs. 3,600",
+    "options": {
+      "a": "Rs. 2,700",
+      "b": "Rs. 2,400",
+      "c": "Rs. 4,000",
+      "d": "Rs. 3,600"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 152,
+    "question": "Rahul can do a work in 20 days, while Rohit can do the same work in 25 days. They started the work jointly. Few days later Ravi also joined them and thus all of them completed the whole work in 10 days. If they were paid a total of Rs.3000 then find the share of Ravi.\na\\. 200 b. 400 c. 100 d. 300",
+    "options": {
+      "a": "200",
+      "b": "400",
+      "c": "100",
+      "d": "300"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 153,
+    "question": "Efficiencies of P, Q, R and S in doing a job are in the ratio 2:3:5:4. The wages paid for the job are Rs.4200. Who is paid the largest amount and how much is paid?\na\\. R, Rs. 1500 b. P, Rs. 2000 c. S, Rs. 1600 d. R, Rs. 2000",
+    "options": {
+      "a": "R, Rs. 1500",
+      "b": "P, Rs. 2000",
+      "c": "S, Rs. 1600",
+      "d": "R, Rs. 2000"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 154,
+    "question": "The labourers A, B, C were given a contract of Rs. 750 for doing a certain piece of work. All the three together can finish the work in 8 days. A and C together can do it in 12 days, while A and B together can do it in 13 1/3 days. The money will be divided in the ratio.\na\\. 4:5:6 b. 4:7:5 c. 5:7:4 d. 5:6:8",
+    "options": {
+      "a": "4:5:6",
+      "b": "4:7:5",
+      "c": "5:7:4",
+      "d": "5:6:8"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 155,
+    "question": "A contractor takes a contract to complete a road in 60 days and employed 105 labours. After 25 days, he found that one-third of the work is completed. How many more labours he required to complete the remaining work in time?\na\\. 75 b. 105 c. 150 d. 45",
+    "options": {
+      "a": "75",
+      "b": "105",
+      "c": "150",
+      "d": "45"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 156,
+    "question": "Sam can finish a task in 12 days, Adam in 15 days. Time together?",
+    "options": {
+      "a": "20/3",
+      "b": "17/3",
+      "c": "14/3",
+      "d": "10/3"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 157,
+    "question": "Max and Samantha together 12 days, Samantha alone 30 days. Max alone?",
+    "options": {
+      "a": "30",
+      "b": "40",
+      "c": "20",
+      "d": "10"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 158,
+    "question": "George & Victor 12h, Victor & Sam 15h, Sam & George 20h. Together?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 159,
+    "question": "Mary is 3\u00d7 efficient as Jonny. Together 15 days. Mary alone?",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "15",
+      "d": "35"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 160,
+    "question": "M=25d, S=20d. Work 5 days together, then M leaves. Days S alone?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 161,
+    "question": "Max=2d, Alex=5d. Together?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 162,
+    "question": "Jack=3\u00d7Rose, Jack=60d less. Together?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 163,
+    "question": "Mike=45d, Nik=40d. Nik alone finishes remaining=23d. Mike works?",
+    "options": {
+      "a": "9",
+      "b": "8",
+      "c": "7",
+      "d": "6"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 164,
+    "question": "Jack+Vinny=12d, Vinny+Sid=15d, Jack=2\u00d7Sid. Vinny alone?",
+    "options": {
+      "a": "20",
+      "b": "21",
+      "c": "22",
+      "d": "19"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 165,
+    "question": "Ross+Sam=15d, Ross=20d. Sam alone?",
+    "options": {
+      "a": "55",
+      "b": "56",
+      "c": "59",
+      "d": "60"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 166,
+    "question": "Jack can complete a coding task in 10 hours. Percentage finished in 4 hours?",
+    "options": {
+      "a": "40%",
+      "b": "50%",
+      "c": "60%",
+      "d": "30%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 167,
+    "question": "Aryan 40d, Bhola 30d. Work 10 days together, Chandru joins, remaining 5 days. Chandru alone?",
+    "options": {
+      "a": "12",
+      "b": "42",
+      "c": "40",
+      "d": "38"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 168,
+    "question": "10 workers complete work in 15 days. Deadline = 5 days. Additional workers needed?",
+    "options": {
+      "a": "20",
+      "b": "21",
+      "c": "19",
+      "d": "22"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 169,
+    "question": "Ayesha & Bhoomi together=12d, Ayesha alone=20d. Bhoomi alone?",
+    "options": {
+      "a": "30",
+      "b": "31",
+      "c": "32",
+      "d": "33"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 170,
+    "question": "8 men+6 women=10d, 10 men+8 women=8d. 1 man+1 woman?",
+    "options": {
+      "a": "81",
+      "b": "79",
+      "c": "80",
+      "d": "82"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 171,
+    "question": "Ramesh=18d, Suresh=12d. Together?",
+    "options": {
+      "a": "36/5",
+      "b": "36/7",
+      "c": "30/7",
+      "d": "24/5"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 172,
+    "question": "A+B together=10d, A alone=15d. B alone?",
+    "options": {
+      "a": "20",
+      "b": "30",
+      "c": "25",
+      "d": "40"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 173,
+    "question": "P+Q=20d, Q+R=30d, P+R=60d. P+Q+R?",
+    "options": {
+      "a": "20",
+      "b": "15",
+      "c": "10",
+      "d": "18"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 174,
+    "question": "Kavya=2\u00d7Meena, together=12d. Kavya alone?",
+    "options": {
+      "a": "18",
+      "b": "24",
+      "c": "30",
+      "d": "36"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 175,
+    "question": "A=24d, B=16d. Work 4 days together, then A leaves. B alone?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 176,
+    "question": "Rahul can paint a wall in 6 days, Mohan in 3 days. Together?",
+    "options": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 177,
+    "question": "Sita 4\u00d7 efficient as Git",
+    "options": {
+      "a": "12",
+      "b": "16",
+      "c": "20",
+      "d": "24"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 178,
+    "question": "A=40d, B=50d. Work together some days, then A leaves. B completes remaining in 30d. A left after how many days?",
+    "options": {
+      "a": "9",
+      "b": "12",
+      "c": "15",
+      "d": "18"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 179,
+    "question": "X+Y=8d, Y+Z=12d, X=3\u00d7Z. Y alone?",
+    "options": {
+      "a": "16",
+      "b": "18",
+      "c": "20",
+      "d": "24"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 180,
+    "question": "Arun+Varun=14d, Arun alone=21d. Varun alone?",
+    "options": {
+      "a": "30",
+      "b": "42",
+      "c": "35",
+      "d": "28"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 181,
+    "question": "Worker completes 1/5th per day. Work in 3 days?",
+    "options": {
+      "a": "50%",
+      "b": "60%",
+      "c": "75%",
+      "d": "80%"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 182,
+    "question": "A=25d, B=20d. Work 5 days, C joins, finishes 5 days. C alone?",
+    "options": {
+      "a": "8",
+      "b": "9",
+      "c": "6",
+      "d": "7"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 183,
+    "question": "12 workers=10d. Complete in 6d. Additional workers?",
+    "options": {
+      "a": "6",
+      "b": "8",
+      "c": "10",
+      "d": "12"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 184,
+    "question": "Riya+Diya=15d, Riya alone=24d. Diya alone?",
+    "options": {
+      "a": "30",
+      "b": "40",
+      "c": "45",
+      "d": "36"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 185,
+    "question": "6 men+4 women=12d, 9 men+6 women=8d. 1 man+1 woman?",
+    "options": {
+      "a": "72",
+      "b": "80",
+      "c": "84",
+      "d": "90"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 186,
+    "question": "Sam and Tom decide to travel to their home town in their cars. Sam covers 200 km in 6 hours on the first day of journey while Tom covers 350 km in 5 hours. Similarly, on the second, third and fourth day Sam took 20 hours and his average speed was 38 kmph whereas Tom took 15 hours. What will be the approximate difference between their average speed if Tom and Sam cover the same distance in four days?\na\\. 14 kmph b. 11 kmph c. 8 kmph d. 20 kmph",
+    "options": {
+      "a": "14 kmph",
+      "b": "11 kmph",
+      "c": "8 kmph",
+      "d": "20 kmph"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 187,
+    "question": "A train is moving with a uniform speed. Train crosses a bridge of length 243 meters in 30 seconds and a bridge of length 343 meters in 36 seconds. What is the speed of the train?\na\\. 60 km/hr b. 72 km/hr c. 64 km/hr d. 65 km/hr",
+    "options": {
+      "a": "60 km/hr",
+      "b": "72 km/hr",
+      "c": "64 km/hr",
+      "d": "65 km/hr"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 188,
+    "question": "In a 500 m race, Ravi beats Ramesh by 5 seconds or 100 m. They decide to run another race and this time Ravi gives Ramesh a head start of 200 m. If Ravi\\'s speed is twice his previous speed and Ramesh\\'s speed is one and half times his previous speed, how far from the starting point should the winning post be so that they finish at the same time?\na\\. 500 m b. 1000 m c. 1500 m d. 2000 m",
+    "options": {
+      "a": "500 m",
+      "b": "1000 m",
+      "c": "1500 m",
+      "d": "2000 m"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 189,
+    "question": "A metro covers some distance with 3 stoppages and time at each stoppage is 10 minutes. If the distance between each stoppage is 15 km and the train is running with speed 40 km/h, then by what percent speed of the metro should be reduced to cover the same distance without a stoppage in the same time?\na\\. 25% b. 20% c. 30% d. 10%",
+    "options": {
+      "a": "25%",
+      "b": "20%",
+      "c": "30%",
+      "d": "10%"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 190,
+    "question": "Narender covered the first one-third of a certain distance with a speed of 10 km/hr, the next 2/5th distance of the total distance he covered with a speed of 20 km/hr and the\nremaining distance he covered with a speed of 40 km/hr. Then the average\nspeed of Narender for the whole journey is\na\\. 50/9 km/hours b. 40/9 km/hours c. 50/3 km/hours d. 4 /3 km/hours",
+    "options": {
+      "a": "50/9 km/hours",
+      "b": "40/9 km/hours",
+      "c": "50/3 km/hours",
+      "d": "4 /3 km/hours"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 191,
+    "question": "A and B are at points P and Q respectively. The destinations of A and B are Q and P respectively. Both of them started at the same time in the opposite directions on the same route. After some time they met each other at the point R. A and B take respectively 9 hours and 4 hours to reach their destination from R, If the speed of A is 48 kmph then the speed B (in kmph) is\na\\. 39 b. 32 c. 46 d. 72",
+    "options": {
+      "a": "39",
+      "b": "32",
+      "c": "46",
+      "d": "72"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 192,
+    "question": "In a 100 m race, if X gives Y a start of 25 m, then X wins the race by 5 second. Alternatively, if X gives Y a start of 50 m the race ends in a dead heat. How long does X take to run 200 m?\na\\. 10 second b. 20 second c. 30 second d. 40 second",
+    "options": {
+      "a": "10 second",
+      "b": "20 second",
+      "c": "30 second",
+      "d": "40 second"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 193,
+    "question": "A person left a city P to city Q in car at 8.00",
+    "options": {
+      "a": "1.00 p.m.",
+      "b": "1.30 p.m.",
+      "c": "2.00 p.m.",
+      "d": "12.30 p.m."
+    },
+    "answer": "c"
+  },
+  {
+    "id": 194,
+    "question": "P gives both Q and R a start of 60 m in a 1500 m race. However, while Q finishes with him, R is 15 m behind them when P and Q cross the finishing line. How much start (in m) can Q give to R in the same race?\na\\. 15 1/8 b. 15 7/8 c. 15 3/8 d. 15 5/8",
+    "options": {
+      "a": "15 1/8",
+      "b": "15 7/8",
+      "c": "15 3/8",
+      "d": "15 5/8"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 195,
+    "question": "A train starts from place A to place B 30 km apart and reaches B in 6 hours. After that train starts from place B to place C 40 km apart and reaches destination C in 2 hours. Find the average speed of the train in m/sec for the whole journey.\na\\. 45 m/sec b. 175/72 m/sec c. 45/72 m/sec d. 25/6 m/sec",
+    "options": {
+      "a": "45 m/sec",
+      "b": "175/72 m/sec",
+      "c": "45/72 m/sec",
+      "d": "25/6 m/sec"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 196,
+    "question": "A boat covered an upstream distance of 200 km and a downstream distance of 300 km. Time taken by boat to travel upstream distance is equal to the time taken by boat in downstream. The speed of the boat in still water is 5 km/h. Then, find the speed of the stream.\na\\. 1 km/h b. 2 km/h c. 5 km/h d. 7 km/h",
+    "options": {
+      "a": "1 km/h",
+      "b": "2 km/h",
+      "c": "5 km/h",
+      "d": "7 km/h"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 197,
+    "question": "A car moving in the morning fog passes a person walking at 8 km/hr in the same direction. The person can see the car for 4 minutes and visibility is upto a distance of 400 m. Then, find the speed of the car?\na\\. 14 km/hr b. 16.5 km/hr c. 12.8 km/hr d. 18.5 km/hr",
+    "options": {
+      "a": "14 km/hr",
+      "b": "16.5 km/hr",
+      "c": "12.8 km/hr",
+      "d": "18.5 km/hr"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 198,
+    "question": "Ram is thrice as fast as Mohan and Mohan is twice as fast as Sohan. The distance covered by Sohan in 42 minutes will be covered by Mohan in:\n+-----------------+----------------+---------------------+------------+\n| > A. 18 minutes | | | |\n+=================+================+=====================+============+\n| > B. 21 minutes | | | |\n+-----------------+----------------+---------------------+------------+\n| > C. 20 minutes | | | |\n+-----------------+----------------+---------------------+------------+\n| > D. 22 minutes | | | |\n+-----------------+----------------+---------------------+------------+\n| > a\\. A | > b\\. B | > c\\. D | > d\\. C |\n+-----------------+----------------+---------------------+------------+",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 199,
+    "question": "A carriage driving in a fog passed a person on bike which was moving at the rate of 9 km/hr in the same direction. He could see the carriage for 5 minutes and it was visible to person up to a distance of 250 meters. Then, find the speed of the carriage (in km/hr)?\na\\. 15 b. 12 c. 10 d. 8",
+    "options": {
+      "a": "15",
+      "b": "12",
+      "c": "10",
+      "d": "8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 200,
+    "question": "A toy car runs at a speed of 2 m / s. A child is playing with it. The child starts the car from the same point where he is and runs after it at a speed of 1.5 m/s. The car can run only up to 50 m till it hits the wall and then comes backward towards the child. Find the time taken (in s) by the child to catch the car.\na\\. 28.6 b. 23 c. 36 d. 25",
+    "options": {
+      "a": "28.6",
+      "b": "23",
+      "c": "36",
+      "d": "25"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 201,
+    "question": "What is the speed of the boat in still water? (in kph)\nI. The boat takes total time of 4 hours to travel 14 km upstream and 35 km downstream together.\nII. The boat takes total time of 5 hours to travel 29 km upstream and 24 km downstream together.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 202,
+    "question": "Two trains each having length of 160 meters moving in the opposite direction crossed each other in 9 seconds. If one train crossed a 200-meter-long platform in 18 seconds, then the ratio of their speeds is:\na\\. 9:7 b. 2:3 c. 5:8 d. 3:4",
+    "options": {
+      "a": "9:7",
+      "b": "2:3",
+      "c": "5:8",
+      "d": "3:4"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 203,
+    "question": "A canon was fired twice at an interval of 9 mins from a fort. A passenger sitting in a train moving towards the fort heard the shots at an interval of 8 mins 48 secs. Assuming the speed of sound as 330 m/sec, what was the approximate speed of the train?\na\\. 18 km/h b. 25 km/h c. 27 km/h d. 20 km/h",
+    "options": {
+      "a": "18 km/h",
+      "b": "25 km/h",
+      "c": "27 km/h",
+      "d": "20 km/h"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 204,
+    "question": "If the ratio of the speed of the boat in downstream and speed of the stream is 8:1 and the speed of the boat in still water is 28 km/hr. What would be the distance travelled in upstream by boat in 8 hours?\na\\. 182 km b. 192 km c. 172 km d. Can\\'t determine",
+    "options": {
+      "a": "182 km",
+      "b": "192 km",
+      "c": "172 km",
+      "d": "Can\\'t determine"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 205,
+    "question": "A motor boat can row 30 km upstream and 60 km downstream in 11 hrs. If the distance covered in upstream and downstream changed with each other, then motorboat takes 2 hrs more time. What is the speed of boat in still water?\na\\. 12 km/hr b. 6 km/hr c. 8 km/hr d. 10 km/hr",
+    "options": {
+      "a": "12 km/hr",
+      "b": "6 km/hr",
+      "c": "8 km/hr",
+      "d": "10 km/hr"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 206,
+    "question": "A boat covers an upstream distance 180 km and a downstream distance 150 km. Time taken by boat to travel upstream distance is 30 hours more than the time taken by it to travel downstream. Then, find the speed of the stream, if the speed of the boat in still water is 4 km/h.\na\\. 2 km/h b. 3 km/h c. 4 km/h d. 1 km/h",
+    "options": {
+      "a": "2 km/h",
+      "b": "3 km/h",
+      "c": "4 km/h",
+      "d": "1 km/h"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 207,
+    "question": "A train crosses a man moving along the railway track at 4 km/hr. The man could see the train upto 2 minutes. If the length of the train is 600 m and at the time of disappearance, the distance between the train and the man was 1800 m. Then, find the speed of the train?\na\\. 56.5 km/hr b. 76.0 km/hr c. 62.5 km/hr d. 52.4 km/hr",
+    "options": {
+      "a": "56.5 km/hr",
+      "b": "76.0 km/hr",
+      "c": "62.5 km/hr",
+      "d": "52.4 km/hr"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 208,
+    "question": "A truck approaches a tunnel inside a tunnel a rat is sitting at a point which is 4/9th of the distance of the tunnels measured from the entrance. When the truck horns the rat moves towards the entrance and truck catches the rat at the entrance and if the rat runs towards the exit then also truck catch the rat at the exit. The speed of truck is how much times the speed of rat?\na\\. 5 times b. 4 times c. 9 times d. 8 times",
+    "options": {
+      "a": "5 times",
+      "b": "4 times",
+      "c": "9 times",
+      "d": "8 times"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 209,
+    "question": "P and Q jog along a circular track of 400 m in opposite directions from the same starting point starting together, with speeds 10 m/s and 40 m/s. Whenever they meet, P\\'s speed is doubled and Q\\'s speed is halved. After what time from start, will they meet for the third time?\na\\. 28 seconds b. 36 seconds c. 26 seconds d. 18 seconds",
+    "options": {
+      "a": "28 seconds",
+      "b": "36 seconds",
+      "c": "26 seconds",
+      "d": "18 seconds"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 210,
+    "question": "Two trains A and B are moving in the opposite direction with speed 80 km / h and 70 km/h respectively. Train A starts from point C at 9:00",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 211,
+    "question": "A and B are 15 kms apart and when travelling towards each other meet after half an hour whereas they meet two and a half hours later if they travel in the same direction. The faster of the two travels at the speed of\na\\. 15 km/hr b. 18 km/hr c. 10 km/hr d. 8 km/hr",
+    "options": {
+      "a": "15 km/hr",
+      "b": "18 km/hr",
+      "c": "10 km/hr",
+      "d": "8 km/hr"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 212,
+    "question": "P is riding a horse and a train with 90 wagons crosses the P in 36 seconds in the same direction. It travels for half an hour from the time it starts overtaking P, before it starts crossing the Q coming from the opposite direction in 24 sec. After how many min P meet Q after the train crossed them.\na\\. 59.6 min b. 55 min c. 49.9 min d. 40.5 min",
+    "options": {
+      "a": "59.6 min",
+      "b": "55 min",
+      "c": "49.9 min",
+      "d": "40.5 min"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 213,
+    "question": "Two trains start towards each other at the same time from two different stations on the same railway track. The distance between the two stations is 783 km and the speed of the trains are 55 Km/h and 35 km/h respectively. A bird starts running between the two trains till their collision at the speed 10% more than the sum of the speed of both trains. Find the distance covered by the bird till the collision of the trains.\na\\. 880.5 km b. 850 Km c. 900 Km d. 861.3 Km",
+    "options": {
+      "a": "880.5 km",
+      "b": "850 Km",
+      "c": "900 Km",
+      "d": "861.3 Km"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 214,
+    "question": "Buses come out of a bus terminus in intervals of 10 minutes at 20 km/h. A man coming from opposite direction towards the terminus meets the buses at intervals of 8 minutes. What is his speed?\na\\. 6 km/h b. 5 km/h c. 3.75 km/h d. 4 km/h",
+    "options": {
+      "a": "6 km/h",
+      "b": "5 km/h",
+      "c": "3.75 km/h",
+      "d": "4 km/h"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 215,
+    "question": "A man takes three times the time as well to row a distance against the stream as to row the same distance in favour of the stream. The ratio of the speed of the boat in still water and the stream is?\na\\. 1:3 b. 2:1 c. 1:2 d. 1:1",
+    "options": {
+      "a": "1:3",
+      "b": "2:1",
+      "c": "1:2",
+      "d": "1:1"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 216,
+    "question": "A man covers the first half of the journey at the speed of 40kmph and the remaining at the speed of 60kmph. Find his average speed?",
+    "options": {
+      "a": "48 km/hr",
+      "b": "42 km/hr",
+      "c": "46 km/hr",
+      "d": "52 km/hr"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 217,
+    "question": "Champaklal covers 20 kms at the speed of 15kmph and other 10kms at the speed of 6kmph. What is his average speed throughout this journey?",
+    "options": {
+      "a": "8 kmph",
+      "b": "9kmph",
+      "c": "10kmph",
+      "d": "12kmph"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 218,
+    "question": "A bird flying 400 km covers the first 100 km at the rate of 100 km/hr, the second 100 km at 200 km/hr, the third 100 km at the rate of 300 km/hr and the last 100 km at the rate of 400 kmph. Find the average speed of the bird.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 219,
+    "question": "A man completes a journey in 10 hours. He travels first half of the journey at the rate of 21 km/hr and the second half at the rate of 24 km/hr. Find the total journey in km.",
+    "options": {
+      "a": "224 km",
+      "b": "225 km",
+      "c": "223 km",
+      "d": "221 km"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 220,
+    "question": "A train running between two towns arrives at its destination 10 minutes late when it goes at 60 km per hour and 16 minutes late when it goes at 40 km per hour. Determine the distance between the two towns.",
+    "options": {
+      "a": "18 km",
+      "b": "20 km",
+      "c": "12 km",
+      "d": "16km"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 221,
+    "question": "Walking at 5/7 of his usual rate, a man reaches the market 16 minutes late. Find his usual time taken to reach the market.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 222,
+    "question": "A man travelled a distance of 61 km in 9 hours partly on foot at the rate of 4 kmph and partly on bicycle at the rate of 9 kmph. Find the distance travelled on foot.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 223,
+    "question": "In covering a distance of 30 km, Abhay takes 2 hours more than Sameer. If Abhay doubles his speed, then he would take 1 hour less than Sameer. Abhay\\'s speed is:",
+    "options": {
+      "a": "9 kmph",
+      "b": "5 kmph",
+      "c": "8kmph",
+      "d": "7kmph"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 224,
+    "question": "What will be the distance between Chennai and Goa? I took one hour more, when I travel at 80 kmph than at 90 kmph.",
+    "options": {
+      "a": "680 km",
+      "b": "710 km",
+      "c": "700 km",
+      "d": "720 km"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 225,
+    "question": "A man takes 6 hours 35 mins in walking to a certain place and riding back. He would have taken 2 hours less by riding both ways. What would be the time he would take to walk both ways?",
+    "options": {
+      "a": "8 hrs35 min",
+      "b": "7 hrs 54 min",
+      "c": "5 hrs 48 min",
+      "d": "5hrs 49 min"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 226,
+    "question": "A cyclist travels a certain distance in 6 hours at a uniform speed. In return, he increases his speed by 2 kmph and covers the same distance in 5 hours. What was his speed initially.",
+    "options": {
+      "a": "10 km/hr",
+      "b": "9 km/hr",
+      "c": "8 km/hr",
+      "d": "12 km /hr"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 227,
+    "question": "A man walks at the speed of 5 kmph and runs at the speed of 10 kmph. How much time will the man require to cover the distance of 28 km, if he covers half (first 14 km) his journey walking and half his journey running?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 228,
+    "question": "Two trains start at the same time from A & B and proceed towards B & A at 36 kmph & 42 kmph respectively. When they meet, it is found that one train has moved 48 km more than the other. What is the distance between A and B ?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 229,
+    "question": "Ram and Shyam travel the same distance at the speeds of 10 kmph and 15 kmph respectively. If Ram takes 30 min longer than Shyam, then the distance travelled is",
+    "options": {
+      "a": "11 km",
+      "b": "12 km",
+      "c": "15 km",
+      "d": "16 km"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 230,
+    "question": "Excluding the stoppages, the speed of a bus is 64 kmph and including the stoppages, the speed of the bus is 48 kmph. For how many minutes does the bus stop per hour?",
+    "options": {
+      "a": "15 min",
+      "b": "16 min",
+      "c": "14 min",
+      "d": "17 min"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 231,
+    "question": "A man travels the first half of a journey at 30 kmph and the remaining half at 45 kmph. Find his average speed.",
+    "options": {
+      "a": "36 kmph",
+      "b": "38 kmph",
+      "c": "40 kmph",
+      "d": "42 kmph"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 232,
+    "question": "Ramesh covers 24 km at 12 kmph and the next 16 km at 8 kmph. What is his average speed for the entire journey?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 233,
+    "question": "A car covers four equal distances at speeds of 40 kmph, 60 kmph, 80 kmph and 120 kmph respectively. Find the average speed of the car.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 234,
+    "question": "A man completes a journey in 8 hours. He travels the first half at 20 kmph and the second half at 30 kmph. Find the total distance travelled.",
+    "options": {
+      "a": "192 km",
+      "b": "200 km",
+      "c": "210 km",
+      "d": "240 km"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 235,
+    "question": "A train reaches its destination 12 minutes late when it runs at 50 kmph and 18 minutes late when it runs at 40 kmph. Find the distance between the two stations.",
+    "options": {
+      "a": "60 km",
+      "b": "72 km",
+      "c": "80 km",
+      "d": "90 km"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 236,
+    "question": "Walking at 4/5 of his usual speed, a man reaches his office 20 minutes late. Find his usual time taken to reach the office.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 237,
+    "question": "A man travels 55 km in 7 hours, partly by walking at 5 kmph and partly by cycling at 10 kmph. Find the distance travelled by walking.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 238,
+    "question": "In covering a distance of 40 km, Suresh takes 1 hour more than Mahesh. If Suresh doubles his speed, he would take 30 minutes less than Mahesh. Find Suresh's speed.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 239,
+    "question": "A person takes 2 hours more to travel a certain distance at 60 kmph than at 80 kmph. Find the distance travelled.",
+    "options": {
+      "a": "480 km",
+      "b": "640 km",
+      "c": "720 km",
+      "d": "960 km"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 240,
+    "question": "A man takes 7 hours 30 minutes to walk to a place and ride back. If he had ridden both ways, he would have taken 3 hours less. Find the time taken to walk both ways.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 241,
+    "question": "A cyclist covers a certain distance in 5 hours at a uniform speed. On return, he increases his speed by 3 kmph and covers the same distance in 4 hours. Find his original speed.",
+    "options": {
+      "a": "12 kmph",
+      "b": "13 kmph",
+      "c": "15 kmph",
+      "d": "17 kmph"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 242,
+    "question": "A man walks at 6 kmph and runs at 12 kmph. How much time will he take to cover 36 km, if he walks for the first half and runs for the remaining half?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 243,
+    "question": "Two trains start at the same time from two stations 600 km apart and move towards each other at speeds of 40 kmph and 50 kmph respectively. Find the distance travelled by the faster train when they meet.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 244,
+    "question": "A and B travel the same distance at speeds of 12 kmph and 18 kmph respectively. If A takes 20 minutes longer than B, find the distance travelled.",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 245,
+    "question": "The speed of a bus excluding stoppages is 75 kmph and including stoppages is 60 kmph. For how many minutes does the bus stop per hour?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 246,
+    "question": "In one minute, minute hand travels through?",
+    "options": {
+      "a": "5\u00b0",
+      "b": "6\u00b0",
+      "c": "60\u00b0",
+      "d": "360\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 247,
+    "question": "In one hour, the hour hand travels through how much space?",
+    "options": {
+      "a": "60",
+      "b": "7 \u00bd",
+      "c": "5",
+      "d": "360"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 248,
+    "question": "In a minute the relative speed between the hour hand and the minute hand how much degree?",
+    "options": {
+      "a": "0\u00b0",
+      "b": "60\u00b0",
+      "c": "5 \u00bd\u00b0",
+      "d": "12\u00b0"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 249,
+    "question": "What is the angle between the hands of a clock at 4:50 hours?",
+    "options": {
+      "a": "180\u00b0",
+      "b": "155\u00b0",
+      "c": "162\u00b0",
+      "d": "180\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 250,
+    "question": "At what time between 3 pm and 4 pm hands of a clock will coincide together?",
+    "options": {
+      "a": "3:16 4/11",
+      "b": "3:18 3/11",
+      "c": "3:20",
+      "d": "3:15"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 251,
+    "question": "At 4:40 hours, what is the angle between the hour hand and minute Hand?",
+    "options": {
+      "a": "120\u00b0",
+      "b": "100\u00b0",
+      "c": "110\u00b0",
+      "d": "130\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 252,
+    "question": "Between 9 hours and 10 hours at what time hands of a clock will be in straight line but opposite in direction?",
+    "options": {
+      "a": "9:15",
+      "b": "9:16 4/11",
+      "c": "9:17 1/11",
+      "d": "9:15 2/11"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 253,
+    "question": "22nd Aug is Sunday. What day was 22 days before?",
+    "options": {
+      "a": "Sunday",
+      "b": "Friday",
+      "c": "Thursday",
+      "d": "Saturday"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 254,
+    "question": "How many days will be there from 26th Jan 1996 to 15th May 1996 (both days included)",
+    "options": {
+      "a": "110",
+      "b": "111",
+      "c": "112",
+      "d": "113"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 255,
+    "question": "If the 3rd Dec 1990 was Sunday, what day was 3rd Jan 1991?",
+    "options": {
+      "a": "Wednesday",
+      "b": "Saturday",
+      "c": "Friday",
+      "d": "Thursday"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 256,
+    "question": "If the seventh day of a month is three days earlier than Friday. What day will it be on 19th of the month?",
+    "options": {
+      "a": "Wednesday",
+      "b": "Sunday",
+      "c": "Tuesday",
+      "d": "Monday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 257,
+    "question": "If the first day of the year (other than the leap) was Friday then which day was the last day of the year?",
+    "options": {
+      "a": "Wednesday",
+      "b": "Thursday",
+      "c": "Friday",
+      "d": "Sunday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 258,
+    "question": "If every second Saturday and all Sundays are holidays in a 30 days month beginning on Saturday, then how many working days are there in that month?",
+    "options": {
+      "a": "15",
+      "b": "18",
+      "c": "23",
+      "d": "25"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 259,
+    "question": "If 1st January is Sunday, then 1st February will be .................",
+    "options": {
+      "a": "Thursday",
+      "b": "Tuesday",
+      "c": "Monday",
+      "d": "Wednesday"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 260,
+    "question": "Kavitha went to library 9 days ago. She goes to library only on Thursday. What day of the week is today?",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Monday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 261,
+    "question": "Between 4 pm and 5 pm at what time hands of a clock will be at right angles?",
+    "options": {
+      "a": "4:07 2/11",
+      "b": "4:05 5/11",
+      "c": "4:04 3/11",
+      "d": "4:06 1/11"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 262,
+    "question": "In a clock 4:50 hours, what is the reflex angle?",
+    "options": {
+      "a": "155\u00b0",
+      "b": "185\u00b0",
+      "c": "210\u00b0",
+      "d": "205\u00b0"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 263,
+    "question": "How many times hands of a clock will coincide in a day?",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "20",
+      "d": "22"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 264,
+    "question": "At 2:40 hours what is the mirror image if a watch is shown before a mirror?",
+    "options": {
+      "a": "9:20",
+      "b": "8:20",
+      "c": "7:20",
+      "d": "7:10"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 265,
+    "question": "A clock is set right at 8 A.M. It gains 10 minutes in 24 hours. What will be the right time, when this clock indicates 1 Pm on the following day?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 266,
+    "question": "In a week. how many hours kamal will not be available in the home?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 267,
+    "question": "In a week maximum number of hours kamal and Navin together remain at home?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 268,
+    "question": "How many days in a week, none of them remain at home?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 269,
+    "question": "If Feb 1, 1996 is Wednesday, what day is March 6th 1996?",
+    "options": {
+      "a": "Monday",
+      "b": "Tuesday",
+      "c": "Wednesday",
+      "d": "Thursday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 270,
+    "question": "Find the day of the week on 22nd Dec 1995",
+    "options": {
+      "a": "Tuesday",
+      "b": "Wednesday",
+      "c": "Thursday",
+      "d": "Friday"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 271,
+    "question": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+    "options": {
+      "a": "Sunday",
+      "b": "Saturday",
+      "c": "Wednesday",
+      "d": "Friday"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 272,
+    "question": "What was the day of the week on 17th June, 1998?",
+    "options": {
+      "a": "Monday",
+      "b": "Tuesday",
+      "c": "Wednesday",
+      "d": "Thursday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 273,
+    "question": "If 6th March 2005 is Monday, what was the day of the week on 6th March, 2004?",
+    "options": {
+      "a": "Sunday",
+      "b": "Saturday",
+      "c": "Tuesday",
+      "d": "Wednesday"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 274,
+    "question": "The calendar for the year 2007 will be the same for the year:",
+    "options": {
+      "a": "2014",
+      "b": "2016",
+      "c": "2017",
+      "d": "2018"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 275,
+    "question": "If the day before yesterday was Monday, when will Saturday be?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 276,
+    "question": "A clock starts at noon. By 10 minutes past 5, the hour hand has turned through:",
+    "options": {
+      "a": "155\u00ba",
+      "b": "158\u00ba",
+      "c": "159\u00ba",
+      "d": "168\u00ba"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 277,
+    "question": "A clock starts at noon. By 20 minutes past 4, the hour hand has turned through:",
+    "options": {
+      "a": "120\u00b0",
+      "b": "125\u00b0",
+      "c": "130\u00b0",
+      "d": "135\u00b0"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 278,
+    "question": "A clock starts at noon. By 45 minutes past 3, the hour hand has turned through:",
+    "options": {
+      "a": "110\u00b0",
+      "b": "112.5\u00b0",
+      "c": "115\u00b0",
+      "d": "120\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 279,
+    "question": "A clock starts at noon. By 10 minutes past 6, the hour hand has turned through:",
+    "options": {
+      "a": "180\u00b0",
+      "b": "182\u00b0",
+      "c": "185\u00b0",
+      "d": "190\u00b0"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 280,
+    "question": "A clock starts at noon. By 25 minutes past 2, the hour hand has turned through:",
+    "options": {
+      "a": "65\u00b0",
+      "b": "70\u00b0",
+      "c": "72.5\u00b0",
+      "d": "75\u00b0"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 281,
+    "question": "A clock starts at noon. By 40 minutes past 7, the hour hand has turned through:",
+    "options": {
+      "a": "225\u00b0",
+      "b": "230\u00b0",
+      "c": "235\u00b0",
+      "d": "240\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 282,
+    "question": "A clock starts at noon. By 15 minutes past 9, the hour hand has turned through:",
+    "options": {
+      "a": "275\u00b0",
+      "b": "277.5\u00b0",
+      "c": "280\u00b0",
+      "d": "285\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 283,
+    "question": "A clock starts at noon. By 50 minutes past 1, the hour hand has turned through:",
+    "options": {
+      "a": "50\u00b0",
+      "b": "55\u00b0",
+      "c": "60\u00b0",
+      "d": "65\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 284,
+    "question": "A clock starts at noon. By 35 minutes past 8, the hour hand has turned through:",
+    "options": {
+      "a": "255\u00b0",
+      "b": "260\u00b0",
+      "c": "262.5\u00b0",
+      "d": "270\u00b0"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 285,
+    "question": "A clock starts at noon. By 5 minutes past 11, the hour hand has turned through:",
+    "options": {
+      "a": "330\u00b0",
+      "b": "332.5\u00b0",
+      "c": "335\u00b0",
+      "d": "340\u00b0"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 286,
+    "question": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+    "options": {
+      "a": "Friday",
+      "b": "Monday",
+      "c": "Tuesday",
+      "d": "Thursday"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 287,
+    "question": "It was Sunday on Jan 1, 2006. What was the day of the week on Jan 1, 2010?",
+    "options": {
+      "a": "Friday",
+      "b": "Monday",
+      "c": "Tuesday",
+      "d": "Thursday"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 288,
+    "question": "It was Monday on Jan 1, 2018. What was the day of the week on Jan 1, 2022?",
+    "options": {
+      "a": "Thursday",
+      "b": "Saturday",
+      "c": "Sunday",
+      "d": "Friday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 289,
+    "question": "It was Wednesday on Jan 1, 2014. What was the day of the week on Jan 1, 2017?",
+    "options": {
+      "a": "Sunday",
+      "b": "Monday",
+      "c": "Saturday",
+      "d": "Friday"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 290,
+    "question": "It was Friday on Jan 1, 2016. What was the day of the week on Jan 1, 2019?",
+    "options": {
+      "a": "Saturday",
+      "b": "Tuesday",
+      "c": "Monday",
+      "d": "Wednesday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 291,
+    "question": "It was Friday on Jan 1, 2016. What was the day of the week on Jan 1, 2019?",
+    "options": {
+      "a": "Saturday",
+      "b": "Tuesday",
+      "c": "Monday",
+      "d": "Wednesday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 292,
+    "question": "It was Saturday on Jan 1, 2000. What was the day of the week on Jan 1, 2005?",
+    "options": {
+      "a": "Friday",
+      "b": "Sunday",
+      "c": "Saturday",
+      "d": "Monday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 293,
+    "question": "It was Monday on Jan 1, 2007. What was the day of the week on Jan 1, 2010?",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Sunday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 294,
+    "question": "It was Tuesday on Jan 1, 2002. What was the day of the week on Jan 1, 2006?",
+    "options": {
+      "a": "Friday",
+      "b": "Sunday",
+      "c": "Monday",
+      "d": "Saturday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 295,
+    "question": "It was Thursday on Jan 1, 2004. What was the day of the week on Jan 1, 2009?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 296,
+    "question": "It was Sunday on Jan 1, 2006. What was the day of the week on Jan 1, 2008?",
+    "options": {
+      "a": "Monday",
+      "b": "Tuesday",
+      "c": "Wednesday",
+      "d": "Thursday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 297,
+    "question": "It was Saturday on Jan 1, 2011. What was the day of the week on Jan 1, 2015?",
+    "options": {
+      "a": "Tuesday",
+      "b": "Wednesday",
+      "c": "Thursday",
+      "d": "Friday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 298,
+    "question": "It was Sunday on Jan 1, 2012. What was the day of the week on Jan 1, 2014?",
+    "options": {
+      "a": "Monday",
+      "b": "Tuesday",
+      "c": "Wednesday",
+      "d": "Thursday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 299,
+    "question": "It was Thursday on Jan 1, 2015. What was the day of the week on Jan 1, 2020?",
+    "options": {
+      "a": "Tuesday",
+      "b": "Wednesday",
+      "c": "Thursday",
+      "d": "Friday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 300,
+    "question": "It was Wednesday on Jan 1, 2020. What was the day of the week on Jan 1, 2022?",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Sunday"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 301,
+    "question": "It was Monday on Jan 1, 2018. What was the day of the week on Jan 1, 2021?",
+    "options": {
+      "a": "Thursday",
+      "b": "Friday",
+      "c": "Saturday",
+      "d": "Sunday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 302,
+    "question": "It was Tuesday on Jan 1, 2008. What was the day of the week on Jan 1, 2013?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 303,
+    "question": "It was Wednesday on Jan 1, 2014. What was the day of the week on Jan 1, 2017?",
+    "options": {
+      "a": "Saturday",
+      "b": "Sunday",
+      "c": "Monday",
+      "d": "Tuesday"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 304,
+    "question": "It was Friday on Jan 1, 2021. What was the day of the week on Jan 1, 2024?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 305,
+    "question": "It was Saturday on Jan 1, 2022. What was the day of the week on Jan 1, 2025?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 306,
+    "question": "In how many ways the letters of the word \"WORDART\" be arranged?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 307,
+    "question": "In how many ways can five boys be made to stand in a row such that two of them, P and Q are always together?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 308,
+    "question": "In how many ways word \"ENERGY\" be arranged in that all vowels and consonants come together?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 309,
+    "question": "In how many ways a selection of 4 students having at least 2 girls can be selected from 4 girls and 5 boys?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 310,
+    "question": "A bundle of five pencils is to be formed from a bundle A of 5 different pencils and another bundle B of 4 different Pencils, taking at least one pencil from each bundle. In how many ways bundle can be formed where number of pencils from Bundle A should be less than Bundle B?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 311,
+    "question": "The number of words that can be formed out of the letters of the word PICTURE, so that the vowels occupy even places is?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 312,
+    "question": "How many 3 digit numbers can be formed from the digit 1, 2, 3, 5, 7 which are divisible by 5 and none of the digits is repeated?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 313,
+    "question": "How many words of 4 consonants and 4 vowels can be formed, out of 8 consonants and 5 vowels?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 314,
+    "question": "A teacher wants to select a boy out of 8 boys and a girl out of 7 girls for the writing competition. In how many ways can be select?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 315,
+    "question": "In a party hall, 10 persons are to be arranged around a round table. If two particular persons are not to be seated side by side, then what is the total number of arrangements? 8. \\* 10! b.7 \\* 8! c.35 \\* 7! d.40 \\* 6!",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 316,
+    "question": "In how many ways can 8 books be distributed among 5 students such that each student is eligible to receive any number of books?\na\\. 8 b. 5 c. 40 d. 64",
+    "options": {
+      "a": "8",
+      "b": "5",
+      "c": "40",
+      "d": "64"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 317,
+    "question": "A bag contains 20 yellow balls, 10 green balls, 5 white balls, 8 black balls, and 1 red ball. How many minimum balls one should pick out so that to make sure the he gets at least 2 balls of same color.\na\\. 7 balls b. 4 balls c. 8 balls d. 6 balls",
+    "options": {
+      "a": "7 balls",
+      "b": "4 balls",
+      "c": "8 balls",
+      "d": "6 balls"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 318,
+    "question": "There is polygon of 14 sides. How many triangles can be drawn using the vertices of that polygon?\na\\. 220 b. 290 c. 364 d. 346",
+    "options": {
+      "a": "220",
+      "b": "290",
+      "c": "364",
+      "d": "346"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 319,
+    "question": "If the letters of the word VERMA are arranged in all possible ways and these words are written out as in a dictionary, then the rank of the word VERMA is:\na\\. 180.0 b. 117.0 c. 810.0 d. 108.0",
+    "options": {
+      "a": "180.0",
+      "b": "117.0",
+      "c": "810.0",
+      "d": "108.0"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 320,
+    "question": "A basket has 5 bananas and 4 mangoes. In how many ways can you make a selection, if you have to take at least 1 banana and 1 mango?\na\\. 512 b. 420 c. 496 d. 465",
+    "options": {
+      "a": "512",
+      "b": "420",
+      "c": "496",
+      "d": "465"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 321,
+    "question": "If a license plate has to be made where the first 4 places are numbers from 0 to 9 and the last two letters are made from the alphabets A to F, how many different license plates are possible where the repetition of any letter or number is not allowed?\na\\. 125000 b. 130000 c. 153000 d. 151200",
+    "options": {
+      "a": "125000",
+      "b": "130000",
+      "c": "153000",
+      "d": "151200"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 322,
+    "question": "In a party, 5 persons shake hands with every other. Find the total no of handshakes at the party. 8. b\\. 15 c. 25 d. 18",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 323,
+    "question": "How many 7-digit numbers are formed from the digit 1, 2, 3, 4, 5, 6 and 7 so that odd number is placed at odd places and even number is placed at even place.\na\\. 144 b. 124 c. 154 d. 156",
+    "options": {
+      "a": "144",
+      "b": "124",
+      "c": "154",
+      "d": "156"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 324,
+    "question": "In how many different ways can 5 boys and 2 girls be arranged in a row such that all boys stand together and all the girls stand together?\na\\. 750 b. 576 c. 480 d. 240",
+    "options": {
+      "a": "750",
+      "b": "576",
+      "c": "480",
+      "d": "240"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 325,
+    "question": "In how many ways we can arrange the letters of the word \\\"ARRANGEMENT\\\"?\na\\. 2494800 b. 1237800 c. 3223600 d. None of these",
+    "options": {
+      "a": "2494800",
+      "b": "1237800",
+      "c": "3223600",
+      "d": "None of these"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 326,
+    "question": "On a parallelogram ABCD, on side AB, 2 points are marked, on side BC, 3 points marked, on side CD, 4 points marked and one side AD, 3 points marked. How many triangles can be made using these points?(no point is marked on the vertex)\na\\. 36 b. 148 c. 184 d. 160",
+    "options": {
+      "a": "36",
+      "b": "148",
+      "c": "184",
+      "d": "160"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 327,
+    "question": "Rohit has an amount of Rs. 207. The denominations of notes can be Rs. 50, Rs. 10 and Re. 1. Find the number of ways he can have this money in different denominations?\na\\. 53 b. 54 c. 55 d. 56",
+    "options": {
+      "a": "53",
+      "b": "54",
+      "c": "55",
+      "d": "56"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 328,
+    "question": "There is one highland where planes get fuel. A plan can cover the half of the world with full tank. A plane can transfer fuel from one plane to the other in the air. How many planes are required to make one plane cover the entire world once. Starting point of the travel is the Highland and coming back to the same Highland. All the other planes giving fuels to this Plane should also come back to the same highland and they don\\'t have to cover the entire world\na\\. 7.0 b. 6.0 c. 4.0 d. 3.0",
+    "options": {
+      "a": "7.0",
+      "b": "6.0",
+      "c": "4.0",
+      "d": "3.0"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 329,
+    "question": "There are 10 people seated in two rows (5 in 1 row) and there are two types of food items. Each row can be served any of the two food items but it must be different from the other row. In how many ways the food can be served?\na\\. 6453300 b. 2441200 c. 7257600 d. 6265800",
+    "options": {
+      "a": "6453300",
+      "b": "2441200",
+      "c": "7257600",
+      "d": "6265800"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 330,
+    "question": "Direction: Given below are three quantities. Based on the given information, determine the Relation between the two quantities.\nA group consists of five couples.\nQuantity I: Number of ways in which they could be arranged in a straight\nline such that the men and women occupy alternate positions.\nQuantity II: Ten times the number of ways in which they can be seated\naround a circular table such that men and women occupy alternate\npositions.",
+    "options": {
+      "a": "Quantity I \\> Quantity II",
+      "b": "Quantity I \\< Quantity II",
+      "c": "Quantity I \u2265 Quantity II",
+      "d": "Quantity I = Quantity II"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 331,
+    "question": "10 points lie on a circle. How many cyclic quadrilaterals can be drawn using these points?\na\\. 190 b. 210 c. 170 d. 120",
+    "options": {
+      "a": "190",
+      "b": "210",
+      "c": "170",
+      "d": "120"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 332,
+    "question": "In how many ways is it possible to choose 2 white squares and 1 black square on a chess board so that all the squares must not lie in the same row or column?\na\\. 12668 b. 6452 c. 9688 d. 15488",
+    "options": {
+      "a": "12668",
+      "b": "6452",
+      "c": "9688",
+      "d": "15488"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 333,
+    "question": "A school has two volleyball teams with eight players each. A new five member team has to be selected from these two teams for an inter school competition. How many selections are possible?\na\\. 2248 b. 4389 c. 4348 d. 4368",
+    "options": {
+      "a": "2248",
+      "b": "4389",
+      "c": "4348",
+      "d": "4368"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 334,
+    "question": "Ishaan has 5 friends to invite. In how many ways, can he send invitation cards to them, if he has three delivery boys to carry the cards?\na\\. 81 b. 243 c. 123 d. 321",
+    "options": {
+      "a": "81",
+      "b": "243",
+      "c": "123",
+      "d": "321"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 335,
+    "question": "Given below are two quantities named A and B. Based on the given information, you have to determine the relation between the two quantities. You should use the given data and your knowledge of Mathematics to choose between the possible answers.\nQuantity A: Number of ways in which letter of words FROST can be\narranged Quantity B: Dictionary rank of word MUSTER",
+    "options": {
+      "a": "Quantity A \\> Quantity B",
+      "b": "Quantity A \\< Quantity B",
+      "c": "Quantity A \u2265 Quantity B",
+      "d": "Quantity A \u2264 Quantity B"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 336,
+    "question": "There are 4 different types of chocolates and 5 different types of ice creams, in how many ways can a person buy a chocolate and an ice cream ?",
+    "options": {
+      "a": "20",
+      "b": "21",
+      "c": "19",
+      "d": "18"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 337,
+    "question": "There are 4 different types of chocolates and 5 different types of ice creams, in how many ways can a person buy a chocolate or an ice cream ?",
+    "options": {
+      "a": "10",
+      "b": "8",
+      "c": "9",
+      "d": "11"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 338,
+    "question": "There are 4 different types of chocolates, 5 different toys and 3 different types of ice creams, in how many ways can a person buy a chocolate or an ice cream and a toy ?",
+    "options": {
+      "a": "34",
+      "b": "35",
+      "c": "36",
+      "d": "34"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 339,
+    "question": "How many ways can the letters of the word \"ORANGE\" be arranged ?",
+    "options": {
+      "a": "720",
+      "b": "710",
+      "c": "700",
+      "d": "730"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 340,
+    "question": "What is the rank of a word TIGER, if all possible permutations of the word TIGER are arranged in dictionary order.",
+    "options": {
+      "a": "112",
+      "b": "111",
+      "c": "113",
+      "d": "110"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 341,
+    "question": "In how many ways can 3 men and 3 women be seated at around table such that no two men sit together?",
+    "options": {
+      "a": "35",
+      "b": "34",
+      "c": "33",
+      "d": "36"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 342,
+    "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there in the committee.",
+    "options": {
+      "a": "756",
+      "b": "755",
+      "c": "754",
+      "d": "757"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 343,
+    "question": "A company has 6 different projects and wants to assign 1 project to a trainee.",
+    "options": {
+      "a": "5",
+      "b": "6",
+      "c": "7",
+      "d": "8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 344,
+    "question": "From 8 candidates, 3 are to be selected for a technical team.",
+    "options": {
+      "a": "48",
+      "b": "56",
+      "c": "64",
+      "d": "72"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 345,
+    "question": "In how many ways can the letters of the word CAREER be arranged?",
+    "options": {
+      "a": "360",
+      "b": "180",
+      "c": "240",
+      "d": "120"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 346,
+    "question": "A password consists of any 3 different digits selected from 1--7.",
+    "options": {
+      "a": "210",
+      "b": "210",
+      "c": "105",
+      "d": "343"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 347,
+    "question": "How many ways can 5 employees be seated in a row for an interview panel?",
+    "options": {
+      "a": "60",
+      "b": "120",
+      "c": "240",
+      "d": "720"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 348,
+    "question": "From a group of 5 men and 4 women, a committee of 3 is formed with at least 1 woman.",
+    "options": {
+      "a": "70",
+      "b": "74",
+      "c": "72",
+      "d": "76"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 349,
+    "question": "In how many ways can the letters of the word MANAGER be arranged?",
+    "options": {
+      "a": "840",
+      "b": "1260",
+      "c": "720",
+      "d": "1440"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 350,
+    "question": "A test paper has 6 multiple-choice questions. In how many ways can a candidate answer any 4 questions?",
+    "options": {
+      "a": "10",
+      "b": "15",
+      "c": "20",
+      "d": "30"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 351,
+    "question": "How many 4-digit numbers can be formed using digits 1,2,3,4,5 without repetition?",
+    "options": {
+      "a": "60",
+      "b": "120",
+      "c": "240",
+      "d": "625"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 352,
+    "question": "From 10 software engineers, in how many ways can a team leader and assistant leader be chosen?",
+    "options": {
+      "a": "45",
+      "b": "90",
+      "c": "100",
+      "d": "80"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 353,
+    "question": "In how many ways can 4 interview slots be arranged among 4 candidates?",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "16",
+      "d": "8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 354,
+    "question": "A company logo uses 3 different colors chosen from 6 available colors.",
+    "options": {
+      "a": "20",
+      "b": "120",
+      "c": "60",
+      "d": "90"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 355,
+    "question": "How many distinct permutations are possible for the word LEVEL?",
+    "options": {
+      "a": "120",
+      "b": "60",
+      "c": "30",
+      "d": "24"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 356,
+    "question": "From 9 candidates, how many ways can a panel of 2 members be selected?",
+    "options": {
+      "a": "36",
+      "b": "36",
+      "c": "18",
+      "d": "72"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 357,
+    "question": "In how many ways can 5 people be seated around a circular table?",
+    "options": {
+      "a": "120",
+      "b": "24",
+      "c": "60",
+      "d": "20"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 358,
+    "question": "A coding contest has 7 problems. In how many ways can a participant choose 3 problems to solve?",
+    "options": {
+      "a": "21",
+      "b": "35",
+      "c": "42",
+      "d": "49"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 359,
+    "question": "How many ways can the letters of the word SUCCESS be arranged?",
+    "options": {
+      "a": "840",
+      "b": "420",
+      "c": "360",
+      "d": "720"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 360,
+    "question": "From 6 men and 5 women, how many committees of 4 can be formed with exactly 2 men?",
+    "options": {
+      "a": "120",
+      "b": "150",
+      "c": "180",
+      "d": "200"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 361,
+    "question": "How many different signals can be made using 3 flags chosen from 5 different flags?",
+    "options": {
+      "a": "10",
+      "b": "60",
+      "c": "30",
+      "d": "125"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 362,
+    "question": "In how many ways can the letters of the word TRAIN be arranged such that vowels are always together?",
+    "options": {
+      "a": "48",
+      "b": "24",
+      "c": "120",
+      "d": "96"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 363,
+    "question": "A company selects 2 interns from 8 applicants.",
+    "options": {
+      "a": "16",
+      "b": "28",
+      "c": "32",
+      "d": "56"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 364,
+    "question": "How many 3-letter words (meaningful or not) can be formed using letters A, B, C, D without repetition?",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "36",
+      "d": "64"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 365,
+    "question": "In how many ways can 4 files be arranged on a desktop?",
+    "options": {
+      "a": "12",
+      "b": "24",
+      "c": "16",
+      "d": "8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 366,
+    "question": "Tickets numbered from 1 to 40 are in a bag and one ticket is drawn at random. What is the probability that ticket drawn is a multiple of 3 or 7?\na\\. 15/30 b. 16/30 c. 17/30 d. 18/30",
+    "options": {
+      "a": "15/30",
+      "b": "16/30",
+      "c": "17/30",
+      "d": "18/30"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 367,
+    "question": "A basket contains x black, 4 red and 5 green colour balls. One ball is taken randomly and the probability of getting a green colour ball is 1/3, and then finds the no. of balls in the basket\na\\. 12 b. 14 c. 15 d. 18",
+    "options": {
+      "a": "12",
+      "b": "14",
+      "c": "15",
+      "d": "18"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 368,
+    "question": "Bag A contains 3 green and 7 blue balls. While bag B contains 10 green and 5 blue balls. If one ball is drawn from each bag, what is the probability that both are green?\na\\. 29/30 b. 1/5 c. 1/3 d. 1/30",
+    "options": {
+      "a": "29/30",
+      "b": "1/5",
+      "c": "1/3",
+      "d": "1/30"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 369,
+    "question": "Bucket A contains x green and x+5 black balls and Bucket B contains (x-2) green and (2x-4) black colour balls. Find the total number of balls in the bucket B if one ball is taken from bucket A and the probability of getting one green ball is 1/3\na\\. 8 b. 9 c. 6 d. 5",
+    "options": {
+      "a": "8",
+      "b": "9",
+      "c": "6",
+      "d": "5"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 370,
+    "question": "From 4 men and 5 women, the committee has to be formed with 5 people, and it contain at least one man. In how many ways the committee can be formed?\na\\. 360 b. 252 c. 125 d. 330",
+    "options": {
+      "a": "360",
+      "b": "252",
+      "c": "125",
+      "d": "330"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 371,
+    "question": "What is the mode of the following set of data? 2, 4, 5, 6, 2, 4, 8, 6, 2, 6, 8, 5, 8, 4, 9, 11, 8 2. b\\. 4 c. 6 d. 8",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 372,
+    "question": "The data of marks scored by 11 students of Pratham Tuition classes are as follows: 223, 217, 237, 255, 243, 218, 265, 279, 263, 233, 227. Find the median of the marks scored by the students.\na\\. 227 b. 233 c. 237 d. 243",
+    "options": {
+      "a": "227",
+      "b": "233",
+      "c": "237",
+      "d": "243"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 373,
+    "question": "In the given frequency distribution, the mean is 39.4, which of the following is the value of \\'k\\'.\n+---------------------------+-------+-------+-------+-------+-------+\n| > **Variable** | > 40 | 42 | 37 | > 35 | > 40 |\n+===========================+=======+=======+=======+=======+=======+\n| > **Frequency** | > 5 | 7 | k | > 4 | > 6 |\n+---------------------------+-------+-------+-------+-------+-------+",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 2,
+    "question": "b\\. 5 c. 8 d. Cannot be determined",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 374,
+    "question": "If the mode of the following data is 10, then the value of k in the data set 2, 8, 5, 10, 1, 6,\n10, 6, 6, 2k + 7, 9, 10, and 12 is:\na\\. 1.5 b. 2.5 c. 3 d. 4",
+    "options": {
+      "a": "1.5",
+      "b": "2.5",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 375,
+    "question": "What is the mode of the distribution where the mean and median are 28.33, and 28 respectively?\na\\. 28 b. 28.5 c. 28.66 d. 27.33",
+    "options": {
+      "a": "28",
+      "b": "28.5",
+      "c": "28.66",
+      "d": "27.33"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 376,
+    "question": "Three boys-A, B and C and four girls- D, E, F and G sit in a row. Find the probability that C and G always sit adjacent to each other.\na\\. 2/7 b. 3/7 c. 5/7 d. 4/7",
+    "options": {
+      "a": "2/7",
+      "b": "3/7",
+      "c": "5/7",
+      "d": "4/7"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 377,
+    "question": "A box has three red balls and five green balls. A few blue balls are added to the box such that the probability that the blue balls are drawn out becomes 1/3. Find the number of blue balls added to the box. 2. b\\. 5 c. 6 d. 7",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 378,
+    "question": "The probability of Mihir solving a question is 5/8. He appears for an exam which has three questions. What is the probability that he will not be able to solve any question?\na\\. 320/512 b. 164/512 c. 64/512 d. 27/512",
+    "options": {
+      "a": "320/512",
+      "b": "164/512",
+      "c": "64/512",
+      "d": "27/512"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 379,
+    "question": "A box contains 15 marbles out of which 7 are red and the rest are blue. Another box contains 14 marbles out of which 8 are blue and the rest are red. One marble is drawn from each box without replacement. Find the probability that each marble is of a different colour.\na\\. 47/105 b. 49/105 c. 52/107 d. 52/105",
+    "options": {
+      "a": "47/105",
+      "b": "49/105",
+      "c": "52/107",
+      "d": "52/105"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 380,
+    "question": "If 3 coins are tossed simultaneously, what is the probability of getting at least 2 heads?\na\\. 1/3 b. \u00bd c. 1/8 d. 7/8",
+    "options": {
+      "a": "1/3",
+      "b": "\u00bd",
+      "c": "1/8",
+      "d": "7/8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 381,
+    "question": "On selecting a 3 digit number at random, what is the probability of selecting a number which is divisible by both 5 and 9?\na\\. 2/15 b. 1/45 c. 7/90 d. 3/45",
+    "options": {
+      "a": "2/15",
+      "b": "1/45",
+      "c": "7/90",
+      "d": "3/45"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 382,
+    "question": "Two dices are rolled simultaneously. The probability that the product so found is an odd number is:\na\\. 2/9 b. 1/9 c. 7/18 d. \u00bc",
+    "options": {
+      "a": "2/9",
+      "b": "1/9",
+      "c": "7/18",
+      "d": "\u00bc"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 383,
+    "question": "All spades and Jacks are removed from a pack of 52 cards and the remaining cards are mixed. One card is drawn from the remaining pack. Find the probability that it is a red king.\na\\. 1/16 b. 5/12 c. 1/18 d. 7/12",
+    "options": {
+      "a": "1/16",
+      "b": "5/12",
+      "c": "1/18",
+      "d": "7/12"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 384,
+    "question": "Two digits numbers are formed from the digits 4, 5, 6 and 7. Find the probability that the number is divisible by 3.\na\\. 4/7 b. 1/16 c. 1/5 d. 5/16",
+    "options": {
+      "a": "4/7",
+      "b": "1/16",
+      "c": "1/5",
+      "d": "5/16"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 385,
+    "question": "Two dice are thrown, what is the probability getting sum of number on both dice divisible by 7?\na\\. 1/13 b. 1/6 c. 5/12 d. 4/15",
+    "options": {
+      "a": "1/13",
+      "b": "1/6",
+      "c": "5/12",
+      "d": "4/15"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 386,
+    "question": "There are x Indians & x Western couples meet at a party & shake hands. If probability of total number of handshakes that takes place in the party is 21 /30 with condition that no wife shakes hands with her own husband & no Indian wife shakes hands with a male. Find the value of x. 2. b\\. 4 c. 3 d. 6",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 387,
+    "question": "In a box, there are 24 four different colour shirts i.e., Red, Blue, Black and White. Each colour of shirt has the equal number. If four shirts are taken at random, then find the probability that the chosen shirt should be one of each colour.\na\\. 24/29 b. 216/1771 c. 19/1771 d. 19/161",
+    "options": {
+      "a": "24/29",
+      "b": "216/1771",
+      "c": "19/1771",
+      "d": "19/161"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 388,
+    "question": "Three letters are written to different persons and addresses on the envelopes are also written. Without looking at the addresses, the letter are put into the envelope, the probability that letters to into the right envelops is\na\\. 1/27 b. 1/6 c. 1/9 d. 1/8",
+    "options": {
+      "a": "1/27",
+      "b": "1/6",
+      "c": "1/9",
+      "d": "1/8"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 389,
+    "question": "The probability that a randomly chosen ball is defective is 1/3. The probability that a randomly chosen ball is red is 2/7. Out of a total of N balls, 100 balls are there that are neither defective nor red. Find the value of N.\na\\. 125 b. 105 c. 196 d. 210",
+    "options": {
+      "a": "125",
+      "b": "105",
+      "c": "196",
+      "d": "210"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 390,
+    "question": "There are 4 balls and 4 boxes of colours yellow, pink, red and green. Red ball is in a box whose colour is same as that of the ball in a yellow box. Red box has green ball. In which box you find the yellow ball?\na\\. red b. green c. pink d. yellow",
+    "options": {
+      "a": "red",
+      "b": "green",
+      "c": "pink",
+      "d": "yellow"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 391,
+    "question": "One number is selected from 1 to 50. Find the probability that the selected number is a multiple of 4 or 5.\na\\. 1/5 b. 2/5 c. 3/5 d. 4/5",
+    "options": {
+      "a": "1/5",
+      "b": "2/5",
+      "c": "3/5",
+      "d": "4/5"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 392,
+    "question": "Jamie has two boxes with him. In first box, he has kept 5 coins and 8 marbles. In second box, he has kept 7 coins and 5 marbles. He selects an object randomly from each box and exchanges them. What is the probability that each box will have same number of coins now?\na\\. 25/39 b. 8/13 c. \u00bd d. 14/39",
+    "options": {
+      "a": "25/39",
+      "b": "8/13",
+      "c": "\u00bd",
+      "d": "14/39"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 393,
+    "question": "Find the probability of forming a seven-member Team for a project from a group of 8 women and 6 men such that no even numbers of men are selected in the project and there is at least 1 woman in the group?\na\\. 219/445 b. 227/529 c. 219/429 d. 217/429",
+    "options": {
+      "a": "219/445",
+      "b": "227/529",
+      "c": "219/429",
+      "d": "217/429"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 394,
+    "question": "A dice is rolled thrice. Find the probability of first getting a number which is multiple of three followed by an odd prime number followed by a composite number.\na\\. 1/16 b. \u00bd c. \u00bc d. None of the above",
+    "options": {
+      "a": "1/16",
+      "b": "\u00bd",
+      "c": "\u00bc",
+      "d": "None of the above"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 395,
+    "question": "A shopkeeper has 120 phones, some are Samsung\\'s and others are Nokia\\'s. If 60 more Samsung phones are bought by the shopkeeper, then probabilities of selling a Samsung is now double of what it was before. Find the number of Nokia phones the shopkeeper has\na\\. 30 b. 90 c. 45 d. 60",
+    "options": {
+      "a": "30",
+      "b": "90",
+      "c": "45",
+      "d": "60"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 396,
+    "question": "A fair coin is tossed 10 times. What is the probability of getting at least 7 heads?\nA\\) 176/1024 B) 120/1024 C) 56/1024 D) 386/1024",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 397,
+    "question": "If P(",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 398,
+    "question": "Two dice are thrown. What is the probability that the sum is prime?\nA\\) 5/12 B) 7/36 C) 15/36 D) 18/36",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 399,
+    "question": "If a random variable X follows a binomial distribution with mean 6 and variance 3, find n.\nA\\) 8 B) 9 C) 10 D) 12",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 400,
+    "question": "The probability that a student passes Mathematics is 0.7 and Science is 0.8. Find probability that the student fails both.\nA\\) 0.06 B) 0.12 C) 0.14 D) 0.24",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 401,
+    "question": "If the correlation coefficient between X and Y is \u22121, then X and Y are:",
+    "options": {
+      "a": "Independent",
+      "b": "Uncorrelated",
+      "c": "Perfectly negatively correlated",
+      "d": "Perfectly positively correlated"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 402,
+    "question": "The variance of the first n natural numbers is:\nA\\) (n\u00b2 \u2212 1)/12 B) (n\u00b2 + 1)/12 C) n(n+1)/12 D) n\u00b2/12",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 403,
+    "question": "A card is drawn. Probability that it is neither a king nor a heart?\nA\\) 39/52 B) 36/52 C) 40/52 D) 38/52",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 404,
+    "question": "If mean = 20 and CV = 25%, find standard deviation.\nA\\) 4 B) 5 C) 6 D) 8",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 405,
+    "question": "If P(A\\|B) = P(B\\|",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 406,
+    "question": "Expected number of heads when 6 fair coins are tossed:\nA\\) 2 B) 3 C) 4 D) 5",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 407,
+    "question": "If X \\~ Poisson(\u03bb), then variance of X is:\nA\\) \u03bb\u00b2 B) \u03bb C) \u221a\u03bb D) 2\u03bb",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 408,
+    "question": "If two events are mutually exclusive, then P(A \u2229 B) equals:\nA\\) 1 B) P(",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 409,
+    "question": "A random variable has values 1,2,3 with probabilities k,2k,3k. Find k.\nA\\) 1/5 B) 1/6 C) 1/7 D) 1/8",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 410,
+    "question": "The standard normal distribution has:\nA\\) Mean 1, SD 0 B) Mean 0, SD 1\nC\\) Mean 1, SD 1 D) Mean 0, SD 0",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 411,
+    "question": "If regression coefficient ( b\u1d67\u2093 = 0.8 ) and ( b\u2093\u1d67 = 0.5 ), find r.\nA\\) 0.2 B) 0.4 C) 0.63 D) 0.8",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 412,
+    "question": "What is the probability of getting exactly two aces when drawing 2 cards from a deck?\nA\\) 6 /1326 B) 4 /1326 C) 1/221 D) 12/1326",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 413,
+    "question": "If mean = median = mode, then the distribution is:\nA\\) Positively skewed B) Negatively skewed\nC\\) Normal D) Binomial",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 414,
+    "question": "A die is thrown until a six appears. What is the expected number of throws?\nA\\) 3 B) 4 C) 5 D) 6",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 415,
+    "question": "If P(A \u222a B) = 0.9, P(",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 416,
+    "question": "The mean deviation is minimum when measured from:\nA\\) Mean B) Median C) Mode D) Origin",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 417,
+    "question": "If events A and B are independent, then P(A \u2229 B) equals:\nA\\) P(",
+    "options": {
+      "a": "+P(B)",
+      "b": "P(A)/P(B)",
+      "c": "P(A)P(B)",
+      "d": "P(A)\u2212P(B)"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 418,
+    "question": "What is the probability that a number selected at random from 1 to 100 is divisible by 3 or 5?\nA\\) 0.45 B) 0.47 C) 0.48 D) 0.50",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 419,
+    "question": "The sum of probabilities of all possible outcomes is:\nA\\) 0 B) Less than 1 C) Equal to 1 D) Greater than 1",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 420,
+    "question": "If the coefficient of correlation is zero, then variables are:\nA\\) Independent B) Dependent\nC\\) Perfectly related D) Linearly unrelated",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 421,
+    "question": "If X follows binomial distribution with n=4, p=0.5, find P(X=2).\nA\\) 0.25 B) 0.375 C) 0.5 D) 0.625",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 422,
+    "question": "In a positively skewed distribution:\nA\\) Mean \\< Median B) Mean \\> Median\nC\\) Mean = Median D) Mean \\< Mode",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 423,
+    "question": "The probability density function integrates to:\nA\\) 0 B) 1 C) Mean D) Variance",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 424,
+    "question": "What is the probability of drawing a red card or a king from a deck?\nA\\) 28/52 B) 26/52 C) 30 /52 D) 32 /52",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 425,
+    "question": "If random variable X has variance zero, then X is:\nA\\) Random B) Normally distributed C) Constant D) Binomial",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 426,
+    "question": "Six years from now, the average of Mano's age that time and Nita's age that time will be 29 years. Five years ago, if the ratio of Mano's age to the Nita's age that time was 11:7, what is Nita's present age ?",
+    "options": {
+      "a": "17 years",
+      "b": "33 years",
+      "c": "19 years",
+      "d": "27 years"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 427,
+    "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 428,
+    "question": "Present ages of Sameer and Anand are in the ratio of 5 : 4 respectively. Three years hence, the ratio of their ages will become 11 : 9 respectively. What is Anand\\'s present age in years?",
+    "options": {
+      "a": "28",
+      "b": "27",
+      "c": "40",
+      "d": "24"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 429,
+    "question": "James' father was 30 years old when he was born. His mother's age was 24 when his sister who is 5 years younger to him, was born. What is the difference between the age of James' father and mother?",
+    "options": {
+      "a": "8",
+      "b": "10",
+      "c": "6",
+      "d": "11"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 430,
+    "question": "The respective ratio between the present age of Monika and Deepak is 5:x. Monika is 9 years younger than Prem. Prem's age after 9 years will be 33 years. The difference between Deepak's and Monika's age is same as the present age of Prem. What is the value of x?",
+    "options": {
+      "a": "18",
+      "b": "13",
+      "c": "16",
+      "d": "11"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 431,
+    "question": "Veena\\'s present age is three times her son\\'s present age and two fifth of her father\\'s present age. The average of present age of all of them is 46 yrs. What is the difference between the Veena\\'s son\\'s present age and Veena\\'s father\\'s present age?\na\\. 68 yrs b. 88 yrs c. 58 yrs d. None of the Above",
+    "options": {
+      "a": "68 yrs",
+      "b": "88 yrs",
+      "c": "58 yrs",
+      "d": "None of the Above"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 432,
+    "question": "Five years ago, the age of Abinay was 4 times the age of Sarita after 10 years, Abinav will be twice as old as Sarit",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 433,
+    "question": "If Saurabh is as much elder than Shyam as he is younger to Suresh and sum of the ages of Shyam and Suresh is 46 year, then what will be the age of Saurabh after five years?\na\\. 27 b. 26 c. 25 d. 28",
+    "options": {
+      "a": "27",
+      "b": "26",
+      "c": "25",
+      "d": "28"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 434,
+    "question": "The ratio of the present age of Palash to that of Arnav is 3: 11. Arnav is 12 years younger than Rahim. Rahim\\'s age after 7 years will be 85 years. What is the present age of Palash\\'s father, who is 25 years older than Palash?\na\\. 43 years b. 67 years c. 45 years d. 69 years",
+    "options": {
+      "a": "43 years",
+      "b": "67 years",
+      "c": "45 years",
+      "d": "69 years"
+    },
+    "answer": "a"
+  },
+  {
+    "id": 435,
+    "question": "The present age of Ravi\\'s father is four times Ravi\\'s present age. Five years back, Ravi\\'s father seven times as old as Ravi was at that time. What is the present age of Ravi\\'s father?\na\\. 43 years b. 67 years c. 40 years d. 69 years",
+    "options": {
+      "a": "43 years",
+      "b": "67 years",
+      "c": "40 years",
+      "d": "69 years"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 436,
+    "question": "The average age of a family of five members is 24. If the present age of the youngest member is 8 year, what was the average age of the family at the time\nof birth of youngest member?\na\\. 16 years b. 20 years c. 18 years d. 14 years",
+    "options": {
+      "a": "16 years",
+      "b": "20 years",
+      "c": "18 years",
+      "d": "14 years"
+    },
+    "answer": "b"
+  },
+  {
+    "id": 437,
+    "question": "Five years ago, the average age of Rimi\\'s age at that time was 12 years. Three years from now if the respective ratio between Rimi\\'s age and Ruhi\\'s age that time will be 5:3, what is Rimi\\'s present age?\na\\. 17 years b. 33 years c. 27 years d. 22 years",
+    "options": {
+      "a": "17 years",
+      "b": "33 years",
+      "c": "27 years",
+      "d": "22 years"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 438,
+    "question": "The present age of Kiran five times the age of Suji. After 10 years Kiran will be three times as old as Suji. Find out the present ages of Kiran and Suji?\na\\. 25 years, 5 years b. 30 years, 6 years\nc\\. 35 years, 7 years d. 50 years, 10 years",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 439,
+    "question": "Six years from now, the average of Mano\\'s age that time and Nita\\'s age that time will be 29 years. Five years ago, if the ratio of Mano\\'s age to the Nita\\'s age that time was 11:7, what is Nita\\'s present age?\na\\. 17 years b. 33 years c. 19 years d. 27 years",
+    "options": {
+      "a": "17 years",
+      "b": "33 years",
+      "c": "19 years",
+      "d": "27 years"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 440,
+    "question": "Age of A is three times the sum of ages of B and C. 5 years hence, A's age will be twice the sum of ages of B and C. The total of their present ages is",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 441,
+    "question": "Four years ago, the ratio of the ages of A and B was 5 : 9. 8 years hence the ratio will be 2 : 3 respectively. Find the present age of B?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 442,
+    "question": "Eight years ago, A was 4 times as old as B. After 8 years A will be twice as old as B. What are their ages respectively?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 443,
+    "question": "Present age of B is twice that of A. 4 years hence B's age will be 4 less than twice the age of A. Find the difference in their ages?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 444,
+    "question": "After 6 years, A's age will be 3/7th of B's age. Also 10 years ago, ratio of ages of A and B was 1 : 5. What is A's present age?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 445,
+    "question": "B is twice older than C and A is 2 years older than B. If the total of all of their ages is 27, what will be total of the ages of A and C 6 years hence?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 446,
+    "question": "The sum of the present ages of A and B is 50. After 2 years B's age will be 2 more than C's age then. If A is younger than C by 4 years, find the age of B 8 years ago",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 447,
+    "question": "After 10 years, A's age will be twice that of B's age. A's present age is 6 times that of C. If B's eighth birthday was celebrated 2 years ago, then what is C's present age?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 448,
+    "question": "The ratio of the present ages of A to B is 5 : 3. The ratio of A's age 4 years age to B's age 4 years hence is 1 : 1. What is the ratio of A's age 4 years hence to B's age 4 years ago?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 449,
+    "question": "Present age of a father is three times more than his son. 8 years hence, father's age will be 2 and a half times of his son's age. After 8 more years, how many times would father be his son's age?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 450,
+    "question": "The present ages of three colleague\\'s are in proportions 3 : 5 : 7. Four years ago, the sum of their ages was 48. find their present ages (in years) ?",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 451,
+    "question": "The ratio of the Mother\\'s age to her daughter\\'s age is 9 : 5. The product of their ages is 1125. The ratio of their ages after five years will be :",
+    "options": {
+      "a": "1 : 3",
+      "b": "2 : 3",
+      "c": "3 : 4",
+      "d": "5 : 3"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 452,
+    "question": "The ratio of the present ages of two Friends is 2 : 3 and six years back, the ratio was 1 :\n3\\. What will be the ratio of their ages after 4 years ?.\na\\) 1 : 3 b) 3 : 4 c) 2 : 3 d) 3 : 5",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 453,
+    "question": "The total ages of Ankit , Narendra and Satendra is 96 years. Five years ago, the ratio of their ages was 2 : 3 : 4. What is the present age of Satendra?",
+    "options": {
+      "a": "21 years",
+      "b": "32 years",
+      "c": "41 years",
+      "d": "53 years"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 454,
+    "question": "Five years ago the ratio of the ages of Omkar and Nitin was 8 : 7. Three years hence, the ratio of their ages will be 12 : 11. what is Nitin\\'s age at present?",
+    "options": {
+      "a": "12 years",
+      "b": "15 years",
+      "c": "8.5 years",
+      "d": "19 years"
+    },
+    "answer": "d"
+  },
+  {
+    "id": 455,
+    "question": "Present age of A and B are in the ratio of 6 : 7 respectively. 8 years hence, the ratio of ages will become 7 : 8 respectively. What is A\\'s present age in years?",
+    "options": {
+      "a": "30 years",
+      "b": "40 years",
+      "c": "48 years",
+      "d": "52 years"
+    },
+    "answer": "c"
+  },
+  {
+    "id": 456,
+    "question": "The present ages of A and B are in the ratio 5 : 7. Five years ago, their ratio was 3 : 5. What is A's present age?\nA\\) 20 B) 22 C) 25 D) 30",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "d"
+  },
+  {
+    "id": 457,
+    "question": "The sum of the present ages of a father and son is 72 years. Ten years ago, the father was 5 times the son's age. What is the father's present age?\nA\\) 50 B) 60 C) 54 D) 48",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 458,
+    "question": "The present age of P is twice that of Q. After 8 years, the ratio becomes 5 : 3. What is Q's present age?\nA\\) 12 B) 16 C) 18 D) 20",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 459,
+    "question": "The average age of A, B and C is 42 years. When D replaces C, the average becomes 38. If D is 8 years younger than C, what is C's age?\nA\\) 46 B) 48 C) 50 D) 52",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 460,
+    "question": "A mother is 3 times as old as her daughter. After 12 years, she will be twice as old. What is the daughter's present age?\nA\\) 10 B) 12 C) 15 D) 18",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 461,
+    "question": "The ratio of present ages of X and Y is 4 : 9. After 8 years, it becomes 2 : 3. What is X's present age?\nA\\) 12 B) 16 C) 20 D) 24",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 462,
+    "question": "Six years ago, the father was 6 times the daughter's age. The sum of their present ages is\n65\\. What is the father's present age?\nA\\) 50 B) 52 C) 54 D) 56",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 463,
+    "question": "A is 5 years older than B. The product of their ages is 104. What is A's age?\nA\\) 12 B) 13 C) 13 D) 15",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 464,
+    "question": "The average age of a family of 5 members is 30 years. After 6 years, a child is born. What will be the average age when the child is 4 years old?\nA\\) 30 B) 31 C) 32 D) 33",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 465,
+    "question": "The ratio of A and B is 7 : 11 and their age difference is 16. What is A's present age?\nA\\) 24 B) 28 C) 32 D) 36",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 466,
+    "question": "A father is four times as old as his son. After 20 years, he will be twice as old. What is the father's present age?\nA\\) 36 B) 38 C) 40 D) 44",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 467,
+    "question": "Three persons' ages are in ratio 3 : 5 : 7. After 10 years, their total will be 135. What is the youngest's present age?\nA\\) 12 B) 15 C) 18 D) 21",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "a"
+  },
+  {
+    "id": 468,
+    "question": "Five years ago, A and B were in ratio 2 : 3. Ten years hence, the ratio becomes 5 : 6. What is A's present age?\nA\\) 20 B) 25 C) 30 D) 35",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 469,
+    "question": "The sum of the present ages of a couple is 58 and their difference is 6. What is the elder's age?\nA\\) 30 B) 32 C) 34 D) 36",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 470,
+    "question": "P, Q, R are in ratio 6 : 8 : 9. After 8 years, ratio becomes 8 : 10 : 11. What is P's present age?\nA\\) 18 B) 20 C) 24 D) 30",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 471,
+    "question": "A man is 24 years older than his son. In 8 years, he will be 3 times his son's age. What is the son's present age?\nA\\) 12 B) 16 C) 18 D) 20",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 472,
+    "question": "The ratio of A and B is 3 : 4 and their sum is 49. What was A's age 5 years ago?\nA\\) 12 B) 16 C) 18 D) 20",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 473,
+    "question": "A woman is 5 years more than twice her daughter. After 10 years, she will be twice her daughter. What is daughter's present age?\nA\\) 8 B) 10 C) 12 D) 15",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 474,
+    "question": "Three siblings differ by 3 years each. Their total is 54. What is the youngest's age?\nA\\) 15 B) 16 C) 17 D) 18",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 475,
+    "question": "Average age of 10 students is 16. Average of 8 is 15. What is average of remaining two?\nA\\) 18 B) 19 C) 20 D) 21",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 476,
+    "question": "A father's age is 3 more than three times his son. After 15 years, he will be twice his son. What is father's present age?\nA\\) 36 B) 39 C) 42 D) 45",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 477,
+    "question": "Present ages of A and B are in ratio 11 : 13. Eight years ago, ratio was 7 : 9. What is A's present age?\nA\\) 33 B) 44 C) 55 D) 66",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  },
+  {
+    "id": 478,
+    "question": "Ratio of two persons is 4 : 5. After 6 years, it becomes 5 : 6. What is the younger's age?\nA\\) 18 B) 24 C) 30 D) 36",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 479,
+    "question": "Product of ages is 360 and difference is 9. What is elder's age?\nA\\) 18 B) 24 C) 27 D) 30",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 480,
+    "question": "Sum of father and son is 80. Twenty years ago, father was 7 times son. What is father's present age?\nA\\) 60 B) 65 C) 70 D) 72",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 481,
+    "question": "A person's age is one-fourth of father's. After 6 years, it becomes one-third. What is person's present age?\nA\\) 12 B) 18 C) 20 D) 24",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 482,
+    "question": "Three ages are in AP. Sum is 75. Youngest is 5 years less than middle. What is middle age?\nA\\) 20 B) 25 C) 30 D) 35",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 483,
+    "question": "If I were twice my present age, I would be 20 years older than my 15-year-old brother. What is my present age?\nA\\) 20 B) 25 C) 30 D) 35",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "b"
+  },
+  {
+    "id": 484,
+    "question": "Husband and wife ratio is 5 : 4. After 5 years, ratio becomes 6 : 5. What is husband's present age?\nA\\) 25 B) 30 C) 35 D) 40",
+    "options": {
+      "a": "",
+      "b": "",
+      "c": "",
+      "d": ""
+    },
+    "answer": "c"
+  }
+]
